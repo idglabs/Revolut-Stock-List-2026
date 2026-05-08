@@ -1,0 +1,717 @@
+1,Eli Lilly,LLY,961.28,Pharmaceuticals,https://finviz.com/quote?t=LLY&p=d,LLY - Lilly(Eli) & Co Stock Price and Quote
+2,J&J,JNJ,222.54,Pharmaceuticals V,https://finviz.com/quote?t=JNJ&p=d,JNJ - Johnson & Johnson Stock Price and Quote
+3,AbbVie,ABBV,204.45,Biopharmaceuticals,https://finviz.com/quote?t=ABBV&p=d,ABBV - Abbvie Inc Stock Price and Quote
+4,Roche Holding AG,RHO,356,Pharmaceuticals,,
+5,UnitedHealth,UNH,367.55,Health Care Plans,https://finviz.com/quote?t=UNH&p=d,UNH - Unitedhealth Group Inc Stock Price and Quote
+6,Roche Holding AG Genussscheine,RHOA,346.29,Pharmaceutical Company,,
+7,Astra Zeneca PLC,AZN,184.26,Biopharmaceutical Company,https://finviz.com/quote?t=AZN&p=d,AZN - Astrazeneca plc Stock Price and Quote
+8,Merck,MRK,111.98,Prescription Drugs V,https://finviz.com/quote?t=MRK&p=d,MRK - Merck & Co Inc Stock Price and Quote
+9,Novartis AG,NVS,124.21,Global pharmaceutical manufactu...,https://finviz.com/quote?t=NVS&p=d,NVS - Novartis AG ADR Stock Price and Quote
+10,Amgen,AMGN,333.61,Biotechnology,https://finviz.com/quote?t=AMGN&p=d,AMGN - AMGEN Inc Stock Price and Quote
+11,Thermo Fisher Scientific,TMO,473.38,Medical Instruments,https://finviz.com/quote?t=TMO&p=d,TMO - Thermo Fisher Scientific Inc Stock Price and Quote
+12,Gilead Sciences,GILD,126.34,Biopharmaceuticals,https://finviz.com/quote?t=GILD&p=d,GILD - Gilead Sciences Inc Stock Price and Quote
+13,Intuitive Surgical,ISRG,447.84,Surgical Tools,https://finviz.com/quote?t=ISRG&p=d,ISRG - Intuitive Surgical Inc Stock Price and Quote
+14,Pfizer,PFE,26.52,Pharmaceuticals,https://finviz.com/quote?t=PFE&p=d,PFE - Pfizer Inc Stock Price and Quote
+15,Abbott Labs,ABT,87.54,Medical Devices,https://finviz.com/quote?t=ABT&p=d,ABT - Abbott Laboratories Stock Price and Quote
+16,Danaher,DHR,176.24,Medical Diagnostics,https://finviz.com/quote?t=DHR&p=d,DHR - Danaher Corp Stock Price and Quote
+17,Bristol-Myers Squibb,BMY,58.4,Pharmaceuticals,https://finviz.com/quote?t=BMY&p=d,BMY - Bristol-Myers Squibb Co Stock Price and Quote
+18,Stryker,SYK,307.08,Medical Devices,https://finviz.com/quote?t=SYK&p=d,SYK - Stryker Corp Stock Price and Quote
+19,CVS Health,CVS,86.8,Healthcare,https://finviz.com/quote?t=CVS&p=d,CVS - CVS Health Corp Stock Price and Quote
+20,Vertex Pharmaceuticals,VRTX,431.6,Biotechnology,https://finviz.com/quote?t=VRTX&p=d,VRTX - Vertex Pharmaceuticals Inc Stock Price and Quote
+21,Medtronic,MDT,78.92,Medical Devices,https://finviz.com/quote?t=MDT&p=d,MDT - Medtronic Plc Stock Price and Quote
+22,Sanofi S.A.,SNW,73.98,Pharmaceuticals,,
+23,Jt HCA Healthcare,HCA,430.13,Hospitals,https://finviz.com/quote?t=HCA&p=d,HCA - HCA Healthcare Inc Stock Price and Quote
+24,McKesson Corporation,MCK,752,Healthcare,https://finviz.com/quote?t=MCK&p=d,MCK - Mckesson Corp Stock Price and Quote
+25,Chugai Pharmaceutical Co. Ltd.,CUP,42.92,Prescription Biopharmaceutical M...,,
+26,Boston Scientific,BSX,56.02,Medical Devices,https://finviz.com/quote?t=BSX&p=d,BSX - Boston Scientific Corp Stock Price and Quote
+27,Elevance Health,ELV,372.5,Insurance,https://finviz.com/quote?t=ELV&p=d,ELV - Elevance Health Inc Stock Price and Quote
+28,Regeneron Pharmaceuticals,REGN,709,Biotechnology,https://finviz.com/quote?t=REGN&p=d,REGN - Regeneron Pharmaceuticals Inc Stock Price and Quote
+29,Cigna,CI,284,,https://finviz.com/quote?t=CI&p=d,CI - Cigna Group Stock Price and Quote
+30,Hoya Corp.,HYB,149.95,Med-Tech Optical Manufacturer,,
+31,Merck KGaA,MRK,114.05,Science and technology company,https://finviz.com/quote?t=MRK&p=d,MRK - Merck & Co Inc Stock Price and Quote
+32,Takeda Pharmaceutical,TAK,28.42,Multinational Biopharmaceutical C...,https://finviz.com/quote?t=TAK&p=d,TAK - Takeda Pharmaceutical Co ADR Stock Price and Quote
+32,Takeda Pharmaceutical Co. Ltd.,TKD,28.42,Multinational Biopharmaceutical C...,,
+33,Argenx SE,1AE,673.4,Immunology-focused biotechnolo...,,
+34,Cencora Inc,COR,259.5,Healthcare,https://finviz.com/quote?t=COR&p=d,COR - Cencora Inc Stock Price and Quote
+35,Edwards Lifesciences,EW,81.87,Artificial Heart Valves V,https://finviz.com/quote?t=EW&p=d,EW - Edwards Lifesciences Corp Stock Price and Quote
+36,Zoetis,ZTS,89.1,Drug Manufacturing V,https://finviz.com/quote?t=ZTS&p=d,ZTS - Zoetis Inc Stock Price and Quote
+37,Siemens Healthineers AG,SHL,33.86,Healthcare solutions,,
+38,IDEXX Laboratories,IDXX,582.51,Vets Medical Tools,https://finviz.com/quote?t=IDXX&p=d,IDXX - Idexx Laboratories Inc Stock Price and Quote
+39,Cardinal Health,CAH,186.69,Healthcare,https://finviz.com/quote?t=CAH&p=d,CAH - Cardinal Health Inc Stock Price and Quote
+40,MM) Bayer AG,BAYN,37.28,Pharmaceuticals & biotechnology,,
+41,Lonza Group AG,LO3,557.5,Biotech,,
+42,CSL Ltd.,CSJ,74.3,Biotechnology Company,,
+43,Becton Dickinson,BDX,154.13,Medical Instruments,https://finviz.com/quote?t=BDX&p=d,BDX - Becton Dickinson & Co Stock Price and Quote
+44,Alnylam Pharmaceuticals,ALNY,300.62,Biopharmaceuticals,https://finviz.com/quote?t=ALNY&p=d,ALNY - Alnylam Pharmaceuticals Inc Stock Price and Quote
+45,Sandoz Group AG,D8Y,73.25,Pharmaceuticals,,
+46,Waters,WAT,355.16,Manufacturing,https://finviz.com/quote?t=WAT&p=d,WAT - Waters Corp Stock Price and Quote
+47,Medline Inc.,MDLN,42.3,Medical Supply Company,https://finviz.com/quote?t=MDLN&p=d,MDLN - Medline Inc Stock Price and Quote
+48,Agilent Technologies,A,118.35,Medical Diagnostics,https://finviz.com/quote?t=A&p=d,A - Agilent Technologies Inc Stock Price and Quote
+49,Alcon,ALC,65.68,Eye Care,https://finviz.com/quote?t=ALC&p=d,ALC - Alcon Inc Stock Price and Quote
+50,Revolution Medicines Inc,RVMD,142.53,Biotechnology,https://finviz.com/quote?t=RVMD&p=d,RVMD - Revolution Medicines Inc Stock Price and Quote
+51,Daiichi Sankyo Co. Ltd.,D4S,14.1,Global Pharmaceutical Firm,,
+52,Natera,NTRA,217,Genetic testing,https://finviz.com/quote?t=NTRA&p=d,NTRA - Natera Inc Stock Price and Quote
+53,ResMed,RMD,212.52,Medical Devices,https://finviz.com/quote?t=RMD&p=d,RMD - Resmed Inc Stock Price and Quote
+54,Insmed,INSM,105.7,Biotechnology V,https://finviz.com/quote?t=INSM&p=d,INSM - Insmed Inc Stock Price and Quote
+55,“lumana,HUM,241.72,Health Insurance,https://finviz.com/quote?t=HUM&p=d,HUM - Humana Inc Stock Price and Quote
+56,IQVIA Holdings,IQV,181.9,Healthcare,https://finviz.com/quote?t=IQV&p=d,IQV - IQVIA Holdings Inc Stock Price and Quote
+57,Biogen,BIIB,190.5,Biotechnology,https://finviz.com/quote?t=BIIB&p=d,BIIB - Biogen Inc Stock Price and Quote
+58,GE Healthcare Technology,GEHC,62.2,Healthcare,https://finviz.com/quote?t=GEHC&p=d,GEHC - GE HealthCare Technologies Inc Stock Price and Quote
+59,CENTENE Centene,CNC,54.94,Health Insurance v,https://finviz.com/quote?t=CNC&p=d,CNC - Centene Corp Stock Price and Quote
+60,Fresenius SE & Co. KGaA,FRE,40.58,Healthcare v,,
+61,United Therapeutics,UTHR,546.22,Biotechnology v,https://finviz.com/quote?t=UTHR&p=d,UTHR - United Therapeutics Corp Stock Price and Quote
+62,Astellas Pharma Inc.,YPH,12.45,Biopharmaceutical Researcher,,
+63,Sigma Healthcare Ltd.,S5YA,1.75,Pharmaceutical Wholesaler Retailer,,
+64,DexCom Inc,DXCM,60.98,Biotechnology,https://finviz.com/quote?t=DXCM&p=d,DXCM - Dexcom Inc Stock Price and Quote
+65,Royalty Pharma,RPRX,50.18,Pharmaceuticals,https://finviz.com/quote?t=RPRX&p=d,RPRX - Royalty Pharma plc Stock Price and Quote
+66,West Pharmaceutical Services,WST,319.57,Pharmaceutical,https://finviz.com/quote?t=WST&p=d,WST - West Pharmaceutical Services Inc Stock Price and Quote
+67,Illumina,ILMN,138.06,Genetic Analysis,https://finviz.com/quote?t=ILMN&p=d,ILMN - Illumina Inc Stock Price and Quote
+68,Laboratory Corporation of America,LH,255.75,,https://finviz.com/quote?t=LH&p=d,LH - Labcorp Holdings Inc Stock Price and Quote
+69,Steris,STE,219.32,Healthcare,https://finviz.com/quote?t=STE&p=d,STE - Steris Plc Stock Price and Quote
+70,Quest Diagnostics,DGX,186.5,Diagnostics v,https://finviz.com/quote?t=DGX&p=d,DGX - Quest Diagnostics Inc Stock Price and Quote
+71,Roivant Sciences Ltd.,ROIV,28.6,Biotechnology,https://finviz.com/quote?t=ROIV&p=d,ROIV - Roivant Sciences Ltd Stock Price and Quote
+72,Incyte,INCY,97.66,Biotechnology,https://finviz.com/quote?t=INCY&p=d,INCY - Incyte Corp Stock Price and Quote
+73,Moderna,MRNA,48.62,Biotechnology,https://finviz.com/quote?t=MRNA&p=d,MRNA - Moderna Inc Stock Price and Quote
+74,Terumo Corp.,TUO,10.72,Medical Device Manufacturer,,
+75,Viatris,VTRS,16.68,Healthcare,https://finviz.com/quote?t=VTRS&p=d,VTRS - Viatris Inc Stock Price and Quote
+76,Sartorius AG VZ,SRT3,219.85,Pharmaceuticals,,
+77,Straumann Holding AG,QS51,94.04,Dental Equipment,,
+78,Shionogi & Co. Ltd.,SHO,17.38,Research-Driven Pharmaceutical C...,https://finviz.com/quote?t=SHO&p=d,SHO - Sunstone Hotel Investors Inc Stock Price and Quote
+79,Tenet Healthcare,THC,195,Healthcare,https://finviz.com/quote?t=THC&p=d,THC - Tenet Healthcare Corp Stock Price and Quote
+80,Zimmer Biomet,ZBH,83,Medical Devices,https://finviz.com/quote?t=ZBH&p=d,ZBH - Zimmer Biomet Holdings Inc Stock Price and Quote
+81,VW Neurocrine Biosciences,NBIX,149.57,Pharmaceuticals,https://finviz.com/quote?t=NBIX&p=d,NBIX - Neurocrine Biosciences Inc Stock Price and Quote
+82,Coloplast AS B,CBHD,54.85,Healthcare,,
+83,Sartorius AG,SRT3,176.9,Biopharmaceutical equipment and...,,
+84,Jazz Pharmaceuticals,JAZZ,225.5,Pharmaceuticals v,https://finviz.com/quote?t=JAZZ&p=d,JAZZ - Jazz Pharmaceuticals plc Stock Price and Quote
+85,Sonova Holding AG,PHBN,196.62,Hearing care technology manuf...,,
+86,Summit Therapeutics,SMMT,17,: Biotech,https://finviz.com/quote?t=SMMT&p=d,SMMT - Summit Therapeutics Inc Stock Price and Quote
+87,Bridgebio Pharma,BBIO,68,Biotech V,https://finviz.com/quote?t=BBIO&p=d,BBIO - BridgeBio Pharma Inc Stock Price and Quote
+88,Elanco Animal Health,ELAN,23.9,: Pharmaceuticals V,https://finviz.com/quote?t=ELAN&p=d,ELAN - Elanco Animal Health Inc Stock Price and Quote
+89,Penumbra,PEN,331.6,Medical,https://finviz.com/quote?t=PEN&p=d,PEN - Penumbra Inc Stock Price and Quote
+90,Pharmaceuticals,IONS,75.25,Biotech V,https://finviz.com/quote?t=IONS&p=d,IONS - Ionis Pharmaceuticals Inc Stock Price and Quote
+91,Align Technology,ALGN,171.83,Invisalign,https://finviz.com/quote?t=ALGN&p=d,ALGN - Align Technology Inc Stock Price and Quote
+92,Nita DaVita HealthCare Partners,DVA,195.94,Healthcare,https://finviz.com/quote?t=DVA&p=d,DVA - DaVita Inc Stock Price and Quote
+93,Madrigal Pharmaceuticals,MDGL,517,Biotech,https://finviz.com/quote?t=MDGL&p=d,MDGL - Madrigal Pharmaceuticals Inc Stock Price and Quote
+94,Solventum Corp,SOLV,70.42,Healthcare,https://finviz.com/quote?t=SOLV&p=d,SOLV - Solventum Corp Stock Price and Quote
+95,Medpace Holdings Inc,MEDP,421.5,Medical V,https://finviz.com/quote?t=MEDP&p=d,MEDP - Medpace Holdings Inc Stock Price and Quote
+96,Guardant Health,GH,94.77,Biotechnology,https://finviz.com/quote?t=GH&p=d,GH - Guardant Health Inc Stock Price and Quote
+97,Globus Medical Inc,GMED,91,Healthcare Products,https://finviz.com/quote?t=GMED&p=d,GMED - Globus Medical Inc Stock Price and Quote
+98,CooperCompanies,COO,60.52,Medical Devices,https://finviz.com/quote?t=COO&p=d,COO - Cooper Companies Inc Stock Price and Quote
+99,Orion Oyj Class B,OFK,69.15,Pharmaceuticals Manufacturer,,
+100,AxSome Therapeutics,AXSM,216,Pharmaceuticals,https://finviz.com/quote?t=AXSM&p=d,AXSM - Axsome Therapeutics Inc Stock Price and Quote
+101,Fresenius Medical Care KGaA,FME,37.02,Healthcare,,
+102,Arrowhead Pharmaceuticals,ARWR,77.75,Biotechnology,https://finviz.com/quote?t=ARWR&p=d,ARWR - Arrowhead Pharmaceuticals Inc Stock Price and Quote
+103,Revvity Inc,RVTY,99.49,Technology,https://finviz.com/quote?t=RVTY&p=d,RVTY - Revvity Inc Stock Price and Quote
+104,Olympus Corp.,OLY1,8.51,Medical Technology Company,,
+105,Biomarin Pharmaceutical,BMRN,54.12,Biotechnology,https://finviz.com/quote?t=BMRN&p=d,BMRN - Biomarin Pharmaceutical Inc Stock Price and Quote
+106,Insulet Corporation,PODD,159.1,Medical technology,https://finviz.com/quote?t=PODD&p=d,PODD - Insulet Corp Stock Price and Quote
+107,Encompass Health Corp,EHC,104.45,Healthcare v,https://finviz.com/quote?t=EHC&p=d,EHC - Encompass Health Corp Stock Price and Quote
+108,Molina Healthcare,MOH,194.65,Healthcare v,https://finviz.com/quote?t=MOH&p=d,MOH - Molina Healthcare Inc Stock Price and Quote
+109,Universal Health Services,UHS,173.7,Healthcare,https://finviz.com/quote?t=UHS&p=d,UHS - Universal Health Services Inc Stock Price and Quote
+110,The Ensign Group,ENSG,174,Healthcare V,https://finviz.com/quote?t=ENSG&p=d,ENSG - Ensign Group Inc Stock Price and Quote
+111,Abivax SA,2X1,105.65,Clinical Biotechnology,,
+112,Brightspring Health Services Inc,BTSG,53.77,Healthcare,https://finviz.com/quote?t=BTSG&p=d,BTSG - BrightSpring Health Services Inc Stock Price and Quote
+113,BioMerieux,EYWN,71.9,Biotechnology,,
+114,Fr eMpus Al,TEM,49.24,Medical Data V,https://finviz.com/quote?t=TEM&p=d,TEM - Tempus AI Inc Stock Price and Quote
+115,ICON,ICLR,124.5,Healthcare,https://finviz.com/quote?t=ICLR&p=d,ICLR - Icon Plc Stock Price and Quote
+116,Praxis Precision Medicines Inc,PRAX,332.72,Biotechnology v,https://finviz.com/quote?t=PRAX&p=d,PRAX - Praxis Precision Medicines Inc Stock Price and Quote
+117,Masimo,MASI,177,Medical V,https://finviz.com/quote?t=MASI&p=d,MASI - Masimo Corp Stock Price and Quote
+118,Cytokinetics,CYTK,73.88,Biotech V,https://finviz.com/quote?t=CYTK&p=d,CYTK - Cytokinetics Inc Stock Price and Quote
+119,Charles River Laboratories,CRL,176,Pharmaceuticals V,https://finviz.com/quote?t=CRL&p=d,CRL - Charles River Laboratories International Inc Stock Price and Quote
+120,Baxter,BAX,16.87,Medical Instruments,https://finviz.com/quote?t=BAX&p=d,BAX - Baxter International Inc Stock Price and Quote
+121,ImmunityBio,IBRX,7.63,Biotechnology v,https://finviz.com/quote?t=IBRX&p=d,IBRX - ImmunityBio Inc Stock Price and Quote
+122,OK Krystal Biotech Inc,KRYS,293.28,Biotech,https://finviz.com/quote?t=KRYS&p=d,KRYS - Krystal Biotech Inc Stock Price and Quote
+123,Eisai Co. Ltd.,EII,25.54,Global Pharmaceutical Company,,
+124,Henry Schein,HSIC,71.42,Dental V,https://finviz.com/quote?t=HSIC&p=d,HSIC - Henry Schein Inc Stock Price and Quote
+125,Vaxcyte,PCVX,51.45,Biotechnology V,https://finviz.com/quote?t=PCVX&p=d,PCVX - Vaxcyte Inc Stock Price and Quote
+126,Nuvalent,NUVL,105.42,Biotechnology,https://finviz.com/quote?t=NUVL&p=d,NUVL - Nuvalent Inc Stock Price and Quote
+127,Kyowa Kirin Co. Ltd.,KY4,12.55,Specialty Biopharmaceutical Comp...,,
+128,Glaukos,GKOS,134.26,Healthcare,https://finviz.com/quote?t=GKOS&p=d,GKOS - Glaukos Corp Stock Price and Quote
+129,Halozyme Therapeutics,HALO,67.1,Biotechnology,https://finviz.com/quote?t=HALO&p=d,HALO - Halozyme Therapeutics Inc Stock Price and Quote
+130,Bachem Holding AG,BHMO,89,Biotechnology,,
+131,Bio-Techne,TECH,49.65,Biotechnology,https://finviz.com/quote?t=TECH&p=d,TECH - Bio-Techne Corp Stock Price and Quote
+132,Qiagen,QGEN,32.68,Biotechnology,https://finviz.com/quote?t=QGEN&p=d,QGEN - Qiagen NV Stock Price and Quote
+133,Kymera Therapeutics,KYMR,86.55,Healthcare,https://finviz.com/quote?t=KYMR&p=d,KYMR - Kymera Therapeutics Inc Stock Price and Quote
+134,Repligen,RGEN,129.4,Biotechnology,https://finviz.com/quote?t=RGEN&p=d,RGEN - Repligen Corp Stock Price and Quote
+135,Bio Rad Laboratories Inc,BIO.B,258.53,Clinical diagnostics,,
+136,Bio-Rad Laboratories,BIO,257.45,Medical Products,https://finviz.com/quote?t=BIO&p=d,BIO - Bio-Rad Laboratories Inc Stock Price and Quote
+137,Ono Pharmaceutical Co. Ltd.,ON4,13.4,Prescription Drug Manufacturer,,
+138,Sonic Healthcare Ltd.,SAB,11.64,Medical Diagnostic Services,,
+139,Celcuity,CELC,129.75,Therapeutics v,https://finviz.com/quote?t=CELC&p=d,CELC - Celcuity Inc Stock Price and Quote
+140,Shimadzu Corp.,XSZ,20.8,Precision Instruments Manufacturer,,
+141,TG Therapeutics,TGTX,42.15,Biotech,https://finviz.com/quote?t=TGTX&p=d,TGTX - TG Therapeutics Inc Stock Price and Quote
+142,Protagonist Therapeutics Inc,PTGX,98.8,Healthcare v,https://finviz.com/quote?t=PTGX&p=d,PTGX - Protagonist Therapeutics Inc Stock Price and Quote
+143,Mirum Pharmaceuticals,MIRM,102.89,Pharmaceuticals,https://finviz.com/quote?t=MIRM&p=d,MIRM - Mirum Pharmaceuticals Inc Stock Price and Quote
+144,Rhythm Pharmaceuticals Inc,RYTM,94.52,Pharmaceutical,https://finviz.com/quote?t=RYTM&p=d,RYTM - Rhythm Pharmaceuticals Inc Stock Price and Quote
+145,Bruker Corporation,BRKR,42.02,Medical Devices,https://finviz.com/quote?t=BRKR&p=d,BRKR - Bruker Corp Stock Price and Quote
+146,Apogee Therapeutics,APGE,81.83,Biotechnology,https://finviz.com/quote?t=APGE&p=d,APGE - Apogee Therapeutics Inc Stock Price and Quote
+147,Spyre Therapeutics Inc,SYRE,73.16,Biotechnology,https://finviz.com/quote?t=SYRE&p=d,SYRE - Spyre Therapeutics Inc Stock Price and Quote
+148,Ramsay Health Care Ltd.,RMY,22.6,Private Hospital Operator,,
+149,Hims & Hers Health Inc,HIMS,26.26,Healthcare,https://finviz.com/quote?t=HIMS&p=d,HIMS - Hims & Hers Health Inc Stock Price and Quote
+150,Terns Pharmaceuticals,TERN,52.97,Pharmaceuticals,https://finviz.com/quote?t=TERN&p=d,TERN - Terns Pharmaceuticals Inc Stock Price and Quote
+151,Oscar Health Inc.,OSCR,20.36,Health Insurance,https://finviz.com/quote?t=OSCR&p=d,OSCR - Oscar Health Inc Stock Price and Quote
+152,Alkermes,ALKS,36.59,Biopharmaceuticals,https://finviz.com/quote?t=ALKS&p=d,ALKS - Alkermes plc Stock Price and Quote
+153,Immunovant,IMVT,27.82,Biotechnology,https://finviz.com/quote?t=IMVT&p=d,IMVT - Immunovant Inc Stock Price and Quote
+154,Avantor,AVTR,8.32,Science,https://finviz.com/quote?t=AVTR&p=d,AVTR - Avantor Inc Stock Price and Quote
+155,CG Oncology Inc.,CGON,69.24,Biotechnology,https://finviz.com/quote?t=CGON&p=d,CGON - Cg Oncology Inc Stock Price and Quote
+156,Bausch + Lomb Corp,BLCO,15.94,Healthcare,https://finviz.com/quote?t=BLCO&p=d,BLCO - Bausch + Lomb Corp Stock Price and Quote
+157,Chemed Corp,CHE,426.03,Healthcare,https://finviz.com/quote?t=CHE&p=d,CHE - Chemed Corp Stock Price and Quote
+158,Lantheus Holdings,LNTH,87.86,Healthcare,https://finviz.com/quote?t=LNTH&p=d,LNTH - Lantheus Holdings Inc Stock Price and Quote
+159,Corcept Therapeutics,CORT,49.62,Pharmaceuticals,https://finviz.com/quote?t=CORT&p=d,CORT - Corcept Therapeutics Inc Stock Price and Quote
+160,Xenon Pharmaceuticals,XENE,57.14,Pharmaceutical,https://finviz.com/quote?t=XENE&p=d,XENE - Xenon Pharmaceuticals Inc Stock Price and Quote
+161,Asahi Intecc Co. Ltd.,6XT,68,Medical Device Manufacturer,,
+162,Teleflex,TFX,17.95,Medical Devices,https://finviz.com/quote?t=TFX&p=d,TFX - Teleflex Incorporated Stock Price and Quote
+163,Scholar Rock,SRRK,134.84,Biotechnology,https://finviz.com/quote?t=SRRK&p=d,SRRK - Scholar Rock Holding Corp Stock Price and Quote
+164,CRISPR Therapeutics AG,CRSP,53.35,Gene Editing V,https://finviz.com/quote?t=CRSP&p=d,CRSP - CRISPR Therapeutics AG Stock Price and Quote
+165,Sysmex Corp.,0YX,7.33,In Vitro Diagnostics,,
+166,Apellis Pharmaceuticals Inc,APLS,41.04,Pharmaceutical,https://finviz.com/quote?t=APLS&p=d,APLS - Apellis Pharmaceuticals Inc Stock Price and Quote
+167,Galenica AG,G70,90.05,Logistics,,
+168,Stevanato Group SpA,STVN,17.88,Manufacturing,https://finviz.com/quote?t=STVN&p=d,STVN - Stevanato Group Spa Stock Price and Quote
+169,Indivior PLC,INDV,39.46,Pharmaceutical V,https://finviz.com/quote?t=INDV&p=d,INDV - Indivior Pharmaceuticals Inc Stock Price and Quote
+170,Dianthus Therapeutics Inc,DNTH,85.46,Biotechnology v,https://finviz.com/quote?t=DNTH&p=d,DNTH - Dianthus Therapeutics Inc Stock Price and Quote
+171,Sumitomo Pharma Co. Ltd.,DPM,8.75,Multinational Pharmaceutical Comp...,,
+172,Ypsomed Holding AG,OWX,328.6,Medical Technology,,
+173,Doximity,DOCS,25.83,Social Networking,https://finviz.com/quote?t=DOCS&p=d,DOCS - Doximity Inc Stock Price and Quote
+174,Ligand Pharmaceuticals,LGND,209.87,Biotech v,https://finviz.com/quote?t=LGND&p=d,LGND - Ligand Pharmaceuticals Inc Stock Price and Quote
+175,RadNet,RDNT,56.9,Radiology V,https://finviz.com/quote?t=RDNT&p=d,RDNT - Radnet Inc Stock Price and Quote
+176,Cochlear Ltd.,OC5,61.4,Hearing Implant Manufacturer,,
+177,VeraDermics Inc,MANE,106.55,Biopharmaceutical firm V,https://finviz.com/quote?t=MANE&p=d,MANE - Veradermics Inc Stock Price and Quote
+178,Bema = Sotera Health,SHC,15.66,Diagnostics,https://finviz.com/quote?t=SHC&p=d,SHC - Sotera Health Co Stock Price and Quote
+179,Kiniksa Pharmaceuticals Ltd,KNSA,56,Biopharmaceutical V,https://finviz.com/quote?t=KNSA&p=d,KNSA - Kiniksa Pharmaceuticals International Plc Stock Price and Quote
+180,Ottobock SE & Co Kga,OBCK,62.8,,,
+181,Envista,NVST,24.46,Dental Equipment V,https://finviz.com/quote?t=NVST&p=d,NVST - Envista Holdings Corp Stock Price and Quote
+182,Crinetics Pharmaceuticals Inc,CRNX,42.5,Biotech,https://finviz.com/quote?t=CRNX&p=d,CRNX - Crinetics Pharmaceuticals Inc Stock Price and Quote
+183,Amneal Pharmaceuticals,AMRX,13.73,Pharmaceuticals,https://finviz.com/quote?t=AMRX&p=d,AMRX - Amneal Pharmaceuticals Inc Stock Price and Quote
+184,Hinge Health Inc,HNGE,54.75,,https://finviz.com/quote?t=HNGE&p=d,HNGE - Hinge Health Inc Stock Price and Quote
+185,Oruka Therapeutics Inc,ORKA,63.58,,https://finviz.com/quote?t=ORKA&p=d,ORKA - Oruka Therapeutics Inc Stock Price and Quote
+186,Travere Therapeutics Inc,TVTX,42.7,Biotech,https://finviz.com/quote?t=TVTX&p=d,TVTX - Travere Therapeutics Inc Stock Price and Quote
+187,Edgewise Therapeutics,EWTX,36.56,Pharmaceutical v,https://finviz.com/quote?t=EWTX&p=d,EWTX - Edgewise Therapeutics Inc Stock Price and Quote
+188,Technologies,IRTC,124.66,Digital Health Care,https://finviz.com/quote?t=IRTC&p=d,IRTC - iRhythm Holdings Inc Stock Price and Quote
+189,Waystar,WAY,21.1,Software,https://finviz.com/quote?t=WAY&p=d,WAY - Waystar Holding Corp Stock Price and Quote
+190,Alignment Healthcare,ALHC,18.08,Healthcare,https://finviz.com/quote?t=ALHC&p=d,ALHC - Alignment Healthcare Inc Stock Price and Quote
+191,Viking Therapeutics,VKTX,31.65,Biotech v,https://finviz.com/quote?t=VKTX&p=d,VKTX - Viking Therapeutics Inc Stock Price and Quote
+192,BillionToOne Inc,BLLN,91.56,,https://finviz.com/quote?t=BLLN&p=d,BLLN - Billiontoone Inc Stock Price and Quote
+193,Telix Pharmaceuticals Ltd,T3X,9.03,Radiopharmaceutical Biopharmace...,,
+194,Liquidia,LQDA,40.94,Biotechnology v,https://finviz.com/quote?t=LQDA&p=d,LQDA - Liquidia Corp Stock Price and Quote
+195,Twist Bioscience Corp,TWST,59.04,Bioscience,https://finviz.com/quote?t=TWST&p=d,TWST - Twist Bioscience Corp Stock Price and Quote
+196,Acadia Pharmaceuticals,ACAD,22.57,Biotechnology,https://finviz.com/quote?t=ACAD&p=d,ACAD - Acadia Pharmaceuticals Inc Stock Price and Quote
+197,Merit Medical Systems,MMSI,63.88,Healthcare,https://finviz.com/quote?t=MMSI&p=d,MMSI - Merit Medical Systems Inc Stock Price and Quote
+198,Medipal Holdings Corp.,59Z,15.1,Healthcare Products Wholesaler 0%,,
+199,Camurus AB,7CA,51.28,Pharmaceutical,,
+200,LivaNova PLC,LIVN,71.49,Medical equipment,https://finviz.com/quote?t=LIVN&p=d,LIVN - LivaNova PLC Stock Price and Quote
+201,NewAmsterdam Pharma,NAMS,34.87,Biotech,https://finviz.com/quote?t=NAMS&p=d,NAMS - NewAmsterdam Pharma Company NV Stock Price and Quote
+202,Organon & Co.,OGN,13.28,Healthcare V,https://finviz.com/quote?t=OGN&p=d,OGN - Organon & Co Stock Price and Quote
+203,Tango Therapeutics Inc,TNGX,23.12,Biotechnology,https://finviz.com/quote?t=TNGX&p=d,TNGX - Tango Therapeutics Inc Stock Price and Quote
+204,Erasca Inc,ERAS,10.32,,https://finviz.com/quote?t=ERAS&p=d,ERAS - Erasca Inc Stock Price and Quote
+205,Brookdale Senior Living,BKD,13.56,Assisted living,https://finviz.com/quote?t=BKD&p=d,BKD - Brookdale Senior Living Inc Stock Price and Quote
+206,Santen Pharmaceutical Co. Ltd.,SZD,8.75,Ophthalmic Specialty Therapeutics,,
+207,Beam Therapeutics,BEAM,31.75,Biotech 1.82%,https://finviz.com/quote?t=BEAM&p=d,BEAM - Beam Therapeutics Inc Stock Price and Quote
+208,Veracyte Inc,VCYT,40.76,Biotech,https://finviz.com/quote?t=VCYT&p=d,VCYT - Veracyte Inc Stock Price and Quote
+209,Arcus Biosciences Inc,RCUS,24.79,Biotechnology,https://finviz.com/quote?t=RCUS&p=d,RCUS - Arcus Biosciences Inc Stock Price and Quote
+210,Alumis Inc,ALMS,23.97,Biotech,https://finviz.com/quote?t=ALMS&p=d,ALMS - Alumis Inc Stock Price and Quote
+211,Denali Therapeutics,DNLI,19.4,Biotech,https://finviz.com/quote?t=DNLI&p=d,DNLI - Denali Therapeutics Inc Stock Price and Quote
+212,Option Care Health,OPCH,21.44,Healthcare,https://finviz.com/quote?t=OPCH&p=d,OPCH - Option Care Health Inc Stock Price and Quote
+213,Kailera Therapeutics,KLRA,22.85,,https://finviz.com/quote?t=KLRA&p=d,KLRA - Kailera Therapeutics Inc Stock Price and Quote
+214,BioArctic AB,B9A,30.39,Biotechnology,,
+215,Arcutis Biotherapeutics Inc,ARQT,20.94,Biotech,https://finviz.com/quote?t=ARQT&p=d,ARQT - Arcutis Biotherapeutics Inc Stock Price and Quote
+216,"Privia Health Group, Inc.",PRVA,23.96,Healthcare,https://finviz.com/quote?t=PRVA&p=d,PRVA - Privia Health Group Inc Stock Price and Quote
+217,ICU Medical,ICUI,123.17,Medical Devices,https://finviz.com/quote?t=ICUI&p=d,ICUI - ICU Medical Inc Stock Price and Quote
+218,Supernus Pharmaceuticals,SUPN,52.29,Pharmaceuticals,https://finviz.com/quote?t=SUPN&p=d,SUPN - Supernus Pharmaceuticals Inc Stock Price and Quote
+219,10X Genomics,TXG,21.78,Biotechnology,https://finviz.com/quote?t=TXG&p=d,TXG - 10x Genomics Inc Stock Price and Quote
+220,Concentra Group Holdings Parent,CON,$,,https://finviz.com/quote?t=CON&p=d,CON - Concentra Group Holdings Parent Inc Stock Price and Quote
+221,Integer Holdings Corp,ITGR,86.66,Medical,https://finviz.com/quote?t=ITGR&p=d,ITGR - Integer Holdings Corp Stock Price and Quote
+222,Emeis,OPA1,15.07,Cellular Therapeutics,,
+223,GLOBAL X ART INTEL & TECH,AIQ,60.4,,https://finviz.com/quote?t=AIQ&p=d,AIQ - Global X Artificial Intelligence & Technology ETF Stock Price and Quote
+224,LifeStance Health Group,LFST,8.34,Healthcare,https://finviz.com/quote?t=LFST&p=d,LFST - LifeStance Health Group Inc Stock Price and Quote
+225,Kodiak Sciences Inc,KOD,42.79,Biotechnology,https://finviz.com/quote?t=KOD&p=d,KOD - Kodiak Sciences Inc Stock Price and Quote
+226,Nektar Therapeutics,NKTR,84.5,Biotechnology v,https://finviz.com/quote?t=NKTR&p=d,NKTR - Nektar Therapeutics Stock Price and Quote
+227,Soleno Therapeutics Inc,SLNO,53.9,Biopharmaceutical,https://finviz.com/quote?t=SLNO&p=d,SLNO - Soleno Therapeutics Inc Stock Price and Quote
+228,Tarsus Pharmaceuticals,TARS,63.99,Healthcare v,https://finviz.com/quote?t=TARS&p=d,TARS - Tarsus Pharmaceuticals Inc Stock Price and Quote
+229,Dermapharm Holding SE,DMP,46.02,Pharmaceuticals,,
+230,SCHOTT Pharma AG & Co,1SXP,15.45,Medical equipment,,
+231,Warby Parker,WRBY,27.63,Eyewear,https://finviz.com/quote?t=WRBY&p=d,WRBY - Warby Parker Inc Stock Price and Quote
+232,Celldex Therapeutics,CLDX,34.23,Biotechnology,https://finviz.com/quote?t=CLDX&p=d,CLDX - Celldex Therapeutics Inc Stock Price and Quote
+233,Carl Zeiss Meditec AG,AFX,25.66,Medical technology,,
+234,National HealthCare,NHC,170.75,Healthcare,https://finviz.com/quote?t=NHC&p=d,NHC - National Healthcare Corp Stock Price and Quote
+235,Immunome Inc,IMNM,22.2,Biotechnology,https://finviz.com/quote?t=IMNM&p=d,IMNM - Immunome Inc Stock Price and Quote
+236,Vera Therapeutics,VERA,35.54,Biotech V,https://finviz.com/quote?t=VERA&p=d,VERA - Vera Therapeutics Inc Stock Price and Quote
+237,Disc Medicine,IRON,67.51,Biotechnology,https://finviz.com/quote?t=IRON&p=d,IRON - Disc Medicine Inc Stock Price and Quote
+238,Ansell Ltd.,PD1A,16.2,Personal Protective Equipment,,
+239,Ambu A/S,547A,8.28,Healthcare,,
+240,Heartflow Inc,HTFL,29.99,Al-Powered Cardiovascular Diagn...,https://finviz.com/quote?t=HTFL&p=d,HTFL - Heartflow Inc Stock Price and Quote
+241,GRAIL Inc.,GRAL,62.46,Healthcare,https://finviz.com/quote?t=GRAL&p=d,GRAL - GRAIL Inc Stock Price and Quote
+242,Prestige Brands,PBH,54.61,Healthcare,https://finviz.com/quote?t=PBH&p=d,PBH - Prestige Consumer Healthcare Inc Stock Price and Quote
+243,Definium Therapeutics Inc.,DFTX,22.86,,https://finviz.com/quote?t=DFTX&p=d,DFTX - Definium Therapeutics Inc Stock Price and Quote
+244,Ultragenyx,RARE,26.14,Biotechnology,https://finviz.com/quote?t=RARE&p=d,RARE - Ultragenyx Pharmaceutical Inc Stock Price and Quote
+245,Ideaya Biosciences,IDYA,29.02,Biotechnology,https://finviz.com/quote?t=IDYA&p=d,IDYA - Ideaya Biosciences Inc Stock Price and Quote
+246,TransMedics Group Inc,TMDX,72.04,Medical technology V,https://finviz.com/quote?t=TMDX&p=d,TMDX - Transmedics Group Inc Stock Price and Quote
+247,LeMaitre Vascular Inc,LMAT,107.83,Medical,https://finviz.com/quote?t=LMAT&p=d,LMAT - Lemaitre Vascular Inc Stock Price and Quote
+248,Enliven Therapeutics,ELVN,40.2,Pharmaceuticals,https://finviz.com/quote?t=ELVN&p=d,ELVN - Enliven Therapeutics Inc Stock Price and Quote
+249,Mineralys Therapeutics Inc,MLYS,29.37,,https://finviz.com/quote?t=MLYS&p=d,MLYS - Mineralys Therapeutics Inc Stock Price and Quote
+250,Relay Therapeutics,RLAY,12.94,Healthcare,https://finviz.com/quote?t=RLAY&p=d,RLAY - Relay Therapeutics Inc Stock Price and Quote
+251,Haemonetics Corporation,HAE,54.38,Healthcare,https://finviz.com/quote?t=HAE&p=d,HAE - Haemonetics Corp Stock Price and Quote
+252,Sarepta Therapeutics Inc,SRPT,20.85,Medical v,https://finviz.com/quote?t=SRPT&p=d,SRPT - Sarepta Therapeutics Inc Stock Price and Quote
+253,"FIGS, Inc.",FIGS,13.14,Healthcare v,https://finviz.com/quote?t=FIGS&p=d,FIGS - Figs Inc Stock Price and Quote
+254,Phibro Animal Health Corp,PAHC,43.64,Healthcare V,https://finviz.com/quote?t=PAHC&p=d,PAHC - Phibro Animal Health Corp Stock Price and Quote
+255,ADMA Biologics Inc,ADMA,8.2,Biotechnology V,https://finviz.com/quote?t=ADMA&p=d,ADMA - Adma Biologics Inc Stock Price and Quote
+256,Acadia Healthcare,ACHC,24.45,Healthcare V,https://finviz.com/quote?t=ACHC&p=d,ACHC - Acadia Healthcare Company Inc Stock Price and Quote
+257,AxoGen,AXGN,42.4,Surgical solutions,https://finviz.com/quote?t=AXGN&p=d,AXGN - Axogen Inc Stock Price and Quote
+258,Adaptive Biotechnologies,ADPT,14.14,Biotechnology,https://finviz.com/quote?t=ADPT&p=d,ADPT - Adaptive Biotechnologies Corp Stock Price and Quote
+259,Bavarian Nordic,BV3,25.04,,,
+260,BioCryst Pharmaceuticals,BCRX,8.81,Biotechnology v,https://finviz.com/quote?t=BCRX&p=d,BCRX - Biocryst Pharmaceuticals Inc Stock Price and Quote
+261,Denitsply,XRAY,11.14,Dental Equipment,https://finviz.com/quote?t=XRAY&p=d,XRAY - DENTSPLY Sirona Inc Stock Price and Quote
+262,Day One Biopharmaceuticals Inc,DAWN,21.5,Biotech,https://finviz.com/quote?t=DAWN&p=d,DAWN - Day One Biopharmaceuticals Inc Stock Price and Quote
+263,Cc Establishment Labs Holdings Inc,ESTA,70.86,Medical technology,https://finviz.com/quote?t=ESTA&p=d,ESTA - Establishment Labs Holdings Inc Stock Price and Quote
+264,Aurinia Pharmaceuticals Inc,AUPH,15.15,Biotech,https://finviz.com/quote?t=AUPH&p=d,AUPH - Aurinia Pharmaceuticals Inc Stock Price and Quote
+265,Tecan Group AG,TEN.,142.75,,,
+266,O Ocular Therapeutix Inc,OCUL,9.74,Pharmaceutical,https://finviz.com/quote?t=OCUL&p=d,OCUL - Ocular Therapeutix Inc Stock Price and Quote
+267,Bausch Health Companies,BHC,5.82,Pharmaceuticals,https://finviz.com/quote?t=BHC&p=d,BHC - Bausch Health Companies Inc Stock Price and Quote
+268,Pharma Mar S.A.,PMRA,102.05,Oncology Pharmaceuticals,,
+269,Stoke Therapeutics Inc,STOK,30.1,Biotechnology v,https://finviz.com/quote?t=STOK&p=d,STOK - Stoke Therapeutics Inc Stock Price and Quote
+270,Inhibrx Inc,INBX,123.5,Biotechnology,https://finviz.com/quote?t=INBX&p=d,INBX - Inhibrx Biosciences Inc Stock Price and Quote
+271,Zymeworks,ZYME,25.5,Biotechnology V,https://finviz.com/quote?t=ZYME&p=d,ZYME - Zymeworks BC Inc Stock Price and Quote
+272,Select Medical Holdings,SEM,16.41,Healthcare,https://finviz.com/quote?t=SEM&p=d,SEM - Select Medical Holdings Corp Stock Price and Quote
+273,Trevi Therapeutics Inc,TRVI,14.04,,https://finviz.com/quote?t=TRVI&p=d,TRVI - Trevi Therapeutics Inc Stock Price and Quote
+274,Taysha Gene Therapies Inc,TSHA,6.78,Biotechnology,https://finviz.com/quote?t=TSHA&p=d,TSHA - Taysha Gene Therapies Inc Stock Price and Quote
+275,R Neogen Corporation,NEOG,9.26,Food safety,https://finviz.com/quote?t=NEOG&p=d,NEOG - Neogen Corp Stock Price and Quote
+276,Capricor Therapeutics,CAPR,29.36,Biotechnology,https://finviz.com/quote?t=CAPR&p=d,CAPR - Capricor Therapeutics Inc Stock Price and Quote
+277,AnaptysBio,ANAB,66.82,Biotechnology v,https://finviz.com/quote?t=ANAB&p=d,ANAB - AnaptysBio Inc Stock Price and Quote
+278,Mesoblast Ltd.,LWB,1.25,Regenerative Medicine Biotechnol...,,
+279,Sionna Therapeutics Inc,SION,43.7,,https://finviz.com/quote?t=SION&p=d,SION - Sionna Therapeutics Inc Stock Price and Quote
+280,PNarvaris NV,PHVS,29.66,Biopharmaceutical V,https://finviz.com/quote?t=PHVS&p=d,PHVS - Pharvaris NV Stock Price and Quote
+281,ANI Pharmaceuticals,ANIP,87.96,Biopharmaceuticals,https://finviz.com/quote?t=ANIP&p=d,ANIP - ANI Pharmaceuticals Inc Stock Price and Quote
+282,NovoCure,NVCR,17.01,Medical Equipment,https://finviz.com/quote?t=NVCR&p=d,NVCR - NovoCure Ltd Stock Price and Quote
+283,Surgery Partners Inc,SGRY,14.29,Healthcare,https://finviz.com/quote?t=SGRY&p=d,SGRY - Surgery Partners Inc Stock Price and Quote
+284,G Galapagos N.V.,GXE,23.74,,,
+285,Harmony Biosciences Holdings,HRMY,31.06,Pharmaceutical,https://finviz.com/quote?t=HRMY&p=d,HRMY - Harmony Biosciences Holdings Inc Stock Price and Quote
+286,Vericel,VCEL,35.13,Biopharmaceutical,https://finviz.com/quote?t=VCEL&p=d,VCEL - Vericel Corp Stock Price and Quote
+287,Palvella Therapeutics Inc,PVLA,113.61,,https://finviz.com/quote?t=PVLA&p=d,PVLA - Palvella Therapeutics Inc Stock Price and Quote
+288,Syndax Pharmaceuticals Inc,SNDX,20.06,Biotechnology V,https://finviz.com/quote?t=SNDX&p=d,SNDX - Syndax Pharmaceuticals Inc Stock Price and Quote
+289,lovance Biotherapeutics,IOVA,3.5,Healthcare,https://finviz.com/quote?t=IOVA&p=d,IOVA - Iovance Biotherapeutics Inc Stock Price and Quote
+290,Pediatrix Medical Group Inc,MD,22.92,Healthcare,https://finviz.com/quote?t=MD&p=d,MD - Pediatrix Medical Group Inc Stock Price and Quote
+291,Guardian Pharmacy Services Inc,GRDN,36.04,,https://finviz.com/quote?t=GRDN&p=d,GRDN - Guardian Pharmacy Services Inc Stock Price and Quote
+292,Tyra Biosciences Inc,TYRA,32.93,Biotechnology,https://finviz.com/quote?t=TYRA&p=d,TYRA - Tyra Biosciences Inc Stock Price and Quote
+293,Recursion Pharmaceuticals Inc,RXRX,3.38,Biotech V,https://finviz.com/quote?t=RXRX&p=d,RXRX - Recursion Pharmaceuticals Inc Stock Price and Quote
+294,Addus HomeCare,ADUS,97.27,Healthcare,https://finviz.com/quote?t=ADUS&p=d,ADUS - Addus HomeCare Corp Stock Price and Quote
+295,Viridian Therapeutics,VRDN,17,Biopharmaceuticals,https://finviz.com/quote?t=VRDN&p=d,VRDN - Viridian Therapeutics Inc Stock Price and Quote
+296,Amylyx Pharmaceuticals,AMLX,15.58,Biotechnology,https://finviz.com/quote?t=AMLX&p=d,AMLX - Amylyx Pharmaceuticals Inc Stock Price and Quote
+297,Rapport Therapeutics Inc,RAPP,39.87,,https://finviz.com/quote?t=RAPP&p=d,RAPP - Rapport Therapeutics Inc Stock Price and Quote
+298,Nuvation Bio,NUVB,4.95,Pharmaceuticals,https://finviz.com/quote?t=NUVB&p=d,NUVB - Nuvation Bio Inc Stock Price and Quote
+299,Sonida Senior Living Inc,SNDA,36.58,Senior housing communities V,https://finviz.com/quote?t=SNDA&p=d,SNDA - Sonida Senior Living Inc Stock Price and Quote
+300,Ardelyx Inc,ARDX,6.92,Biotechnology,https://finviz.com/quote?t=ARDX&p=d,ARDX - Ardelyx Inc Stock Price and Quote
+301,Astrana Health Inc,ASTH,34.14,Healthcare v,https://finviz.com/quote?t=ASTH&p=d,ASTH - Astrana Health Inc Stock Price and Quote
+302,Oculis Holding AG,OCS,31.02,Biotechnology,https://finviz.com/quote?t=OCS&p=d,OCS - Oculis Holding AG Stock Price and Quote
+303,Perrigo,PRGO,11.78,Pharmaceutical V,https://finviz.com/quote?t=PRGO&p=d,PRGO - Perrigo Company plc Stock Price and Quote
+304,Artivion,AORT,30.2,Healthcare,https://finviz.com/quote?t=AORT&p=d,AORT - Artivion Inc Stock Price and Quote
+305,noviva,INVA,23.2,Pharmaceutical,https://finviz.com/quote?t=INVA&p=d,INVA - Innoviva Inc Stock Price and Quote
+306,Vir Biotechnology Inc,VIR,8.9,Biotechnology,https://finviz.com/quote?t=VIR&p=d,VIR - Vir Biotechnology Inc Stock Price and Quote
+307,Intellia Therapeutics Inc,NTLA,13.52,Biotech V,https://finviz.com/quote?t=NTLA&p=d,NTLA - Intellia Therapeutics Inc Stock Price and Quote
+308,Monte Rosa Therapeutics Inc,GLUE,20.86,Biotechnology,https://finviz.com/quote?t=GLUE&p=d,GLUE - Monte Rosa Therapeutics Inc Stock Price and Quote
+309,Agios Pharmaceuticals,AGIO,27.52,Pharmaceuticals,https://finviz.com/quote?t=AGIO&p=d,AGIO - Agios Pharmaceuticals Inc Stock Price and Quote
+310,Alamar Biosciences,ALMR,23.61,Biotechnology,https://finviz.com/quote?t=ALMR&p=d,ALMR - Alamar Biosciences Inc Stock Price and Quote
+311,Dragerwerk,DRW8,71.5,Breathing and protection equipm...,,
+312,Bicara Therapeutics Inc,BCAX,23.1,Biotechnology,https://finviz.com/quote?t=BCAX&p=d,BCAX - Bicara Therapeutics Inc Stock Price and Quote
+313,AdaptHealth Corp,AHCO,12.12,Medical equipment,https://finviz.com/quote?t=AHCO&p=d,AHCO - AdaptHealth Corp Stock Price and Quote
+314,Immatics,IMTX,11.14,Biotech,https://finviz.com/quote?t=IMTX&p=d,IMTX - Immatics N.V Stock Price and Quote
+315,MBX Biosciences Inc,MBX,34.79,,https://finviz.com/quote?t=MBX&p=d,MBX - MBX Biosciences Inc Stock Price and Quote
+316,AbCellera Biologics,ABCL,4.79,Biotech V,https://finviz.com/quote?t=ABCL&p=d,ABCL - AbCellera Biologics Inc Stock Price and Quote
+317,NOovavax,NVAX,9.1,Biotechnology,https://finviz.com/quote?t=NVAX&p=d,NVAX - Novavax Inc Stock Price and Quote
+318,Biohaven,BHVN,10.04,: Pharmaceutical,https://finviz.com/quote?t=BHVN&p=d,BHVN - Biohaven Ltd Stock Price and Quote
+319,Harrow Health,HROW,39.88,: Pharmaceutical,https://finviz.com/quote?t=HROW&p=d,HROW - Harrow Inc Stock Price and Quote
+320,Fortrea Holdings Inc,FTRE,14.74,Healthcare,https://finviz.com/quote?t=FTRE&p=d,FTRE - Fortrea Holdings Inc Stock Price and Quote
+321,Aveanna Healthcare Holdings Inc.,AVAH,6.93,Healthcare,https://finviz.com/quote?t=AVAH&p=d,AVAH - Aveanna Healthcare Holdings Inc Stock Price and Quote
+322,Progyny Inc,PGNY,21.12,Benefits,https://finviz.com/quote?t=PGNY&p=d,PGNY - Progyny Inc Stock Price and Quote
+323,Maze Therapeutics Inc,MAZE,25.12,,https://finviz.com/quote?t=MAZE&p=d,MAZE - Maze Therapeutics Inc Stock Price and Quote
+324,Ethos Technologies Inc.,LIFE,31.04,Insurance policies services,https://finviz.com/quote?t=LIFE&p=d,LIFE - Ethos Technologies Inc Stock Price and Quote
+325,Enovis,ENOV,27.6,Medical Technology,https://finviz.com/quote?t=ENOV&p=d,ENOV - Enovis Corp Stock Price and Quote
+326,AtriCure,ATRC,27.79,Medical Devices,https://finviz.com/quote?t=ATRC&p=d,ATRC - Atricure Inc Stock Price and Quote
+327,PROCEPT BioRobotics,PRCT,24.99,Services,https://finviz.com/quote?t=PRCT&p=d,PRCT - Procept BioRobotics Corp Stock Price and Quote
+328,Cc Clover Health Investments Corp,CLOV,2.77,Healthcare,https://finviz.com/quote?t=CLOV&p=d,CLOV - Clover Health Investments Corp Stock Price and Quote
+329,Ww Wave Life Sciences Ltd,WVE,7.24,Biotechnology v,https://finviz.com/quote?t=WVE&p=d,WVE - Wave Life Sciences Ltd Stock Price and Quote
+330,GH Research,GHRS,21.04,Pharmaceutical v,https://finviz.com/quote?t=GHRS&p=d,GHRS - GH Research PLC Stock Price and Quote
+331,STAAR Surgical Company,STAA,27.26,Healthcare V,https://finviz.com/quote?t=STAA&p=d,STAA - Staar Surgical Co Stock Price and Quote
+332,Arrivent Biopharma Inc,AVBP,28.85,,https://finviz.com/quote?t=AVBP&p=d,AVBP - ArriVent BioPharma Inc Stock Price and Quote
+333,Kalvista Pharmaceuticals,KALV,26.7,Pharmaceuticals,https://finviz.com/quote?t=KALV&p=d,KALV - KalVista Pharmaceuticals Inc Stock Price and Quote
+334,Olema Pharmaceuticals,OLMA,15.13,Biotech v,https://finviz.com/quote?t=OLMA&p=d,OLMA - Olema Pharmaceuticals Inc Stock Price and Quote
+335,Inspire Medical Systems Inc,INSP,45.56,Medical technology,https://finviz.com/quote?t=INSP&p=d,INSP - Inspire Medical Systems Inc Stock Price and Quote
+336,Pulse Biosciences,PLSE,20.16,Biotechnology,https://finviz.com/quote?t=PLSE&p=d,PLSE - Pulse Biosciences Inc Stock Price and Quote
+337,Corvus Pharmaceuticals Inc,CRVS,14.9,Biotechnology V,https://finviz.com/quote?t=CRVS&p=d,CRVS - Corvus Pharmaceuticals Inc Stock Price and Quote
+338,MoonLake Immunotherapeutics,MLTX,17.36,Biotech V,https://finviz.com/quote?t=MLTX&p=d,MLTX - MoonLake Immunotherapeutics Stock Price and Quote
+339,Urogen Pharma Ltd,URGN,26.5,Biotechnology,https://finviz.com/quote?t=URGN&p=d,URGN - UroGen Pharma Ltd Stock Price and Quote
+340,Array Technologies Inc,ARRY,8.55,Technology,https://finviz.com/quote?t=ARRY&p=d,ARRY - Array Technologies Inc Stock Price and Quote
+341,Jade Biosciences Inc,JBIO,23.75,,https://finviz.com/quote?t=JBIO&p=d,JBIO - Jade Biosciences Inc Stock Price and Quote
+342,Tandem Diabetes Care,TNDM,20.6,Medical Devices,https://finviz.com/quote?t=TNDM&p=d,TNDM - Tandem Diabetes Care Inc Stock Price and Quote
+343,MapLight Therapeutics Inc.,MPLT,29.77,Clinical-stage Biopharmaceutical,https://finviz.com/quote?t=MPLT&p=d,MPLT - MapLight Therapeutics Inc Stock Price and Quote
+344,Kestra Medical Technologies Ltd,KMTS,21.5,,https://finviz.com/quote?t=KMTS&p=d,KMTS - Kestra Medical Technologies Ltd Stock Price and Quote
+345,Zenas Biopharma Inc,ZBIO,19.19,Biotechnology,https://finviz.com/quote?t=ZBIO&p=d,ZBIO - Zenas Biopharma Inc Stock Price and Quote
+346,Ambea AB,6MA,13.33,Elderly Care Provider,,
+347,Yd Butterfly Network Inc,BFLY,4.24,Digital Healthcare 6.81%,https://finviz.com/quote?t=BFLY&p=d,BFLY - Butterfly Network Inc Stock Price and Quote
+348,Collegium Pharmaceutical,COLL,39.24,Pharmaceutical,https://finviz.com/quote?t=COLL&p=d,COLL - Collegium Pharmaceutical Inc Stock Price and Quote
+349,Anbio Biotechnology,NNNN,26.47,,https://finviz.com/quote?t=NNNN&p=d,NNNN - Anbio Biotechnology Stock Price and Quote
+350,Burford Capital Limited,BUR,5.16,Finance,https://finviz.com/quote?t=BUR&p=d,BUR - Burford Capital Limited Stock Price and Quote
+351,Avalyn Pharma,AVB,26.95,,https://finviz.com/quote?t=AVB&p=d,AVB - Avalonbay Communities Inc Stock Price and Quote
+352,NeoGenomics,NEO,8.67,Healthcare v,https://finviz.com/quote?t=NEO&p=d,NEO - Neogenomics Inc Stock Price and Quote
+353,Avanos Medical Inc,AVNS,24.81,Healthcare,https://finviz.com/quote?t=AVNS&p=d,AVNS - Avanos Medical Inc Stock Price and Quote
+354,Pharming Group NV,PHGN,1.09,Biopharmaceutical Rare Disease,,
+355,Pennant Group,PNTG,35.74,Healthcare,https://finviz.com/quote?t=PNTG&p=d,PNTG - Pennant Group Inc Stock Price and Quote
+356,Eckert & Ziegler SE,EUZ,15.79,Medical equipment,,
+357,Strive Inc.,ASST,15.38,,https://finviz.com/quote?t=ASST&p=d,ASST - Strive Inc Stock Price and Quote
+358,Conmed Corporation,CNMD,38.08,Medical Devices,https://finviz.com/quote?t=CNMD&p=d,CNMD - Conmed Corp Stock Price and Quote
+359,Eyepoint Pharmaceuticals,EYPT,13.7,Pharmaceutical,https://finviz.com/quote?t=EYPT&p=d,EYPT - EyePoint Inc Stock Price and Quote
+360,Alvotech,ALVO,3.2,Biotech,https://finviz.com/quote?t=ALVO&p=d,ALVO - Alvotech Stock Price and Quote
+361,US Physical Therapy,USPH,60.9,Healthcare,https://finviz.com/quote?t=USPH&p=d,USPH - U.S. Physical Therapy Inc Stock Price and Quote
+362,Septerna Inc,SEPN,23.96,,https://finviz.com/quote?t=SEPN&p=d,SEPN - Septerna Inc Stock Price and Quote
+363,lradimed,IRMD,86.64,MRI Innovation,https://finviz.com/quote?t=IRMD&p=d,IRMD - Iradimed Corp Stock Price and Quote
+364,Innovage Holding Corp.,INNV,8,Healthcare v,https://finviz.com/quote?t=INNV&p=d,INNV - InnovAge Holding Corp Stock Price and Quote
+365,MannKind Corp,MNKD,3.65,Biopharmaceutical,https://finviz.com/quote?t=MNKD&p=d,MNKD - Mannkind Corp Stock Price and Quote
+366,Xeris Biopharma Holdings,XERS,6.86,Biotech,https://finviz.com/quote?t=XERS&p=d,XERS - Xeris Biopharma Holdings Inc Stock Price and Quote
+367,Integra Lifesciences,IART,13.57,Medical Devices V,https://finviz.com/quote?t=IART&p=d,IART - Integra Lifesciences Holdings Corp Stock Price and Quote
+368,Caredx Inc,CDNA,21.44,Healthcare,https://finviz.com/quote?t=CDNA&p=d,CDNA - Caredx Inc Stock Price and Quote
+369,Savara,SVRA,5.16,Biotech V,https://finviz.com/quote?t=SVRA&p=d,SVRA - Savara Inc Stock Price and Quote
+370,Alphatec Holdings,ATEC,7.54,Medical Technology,https://finviz.com/quote?t=ATEC&p=d,ATEC - Alphatec Holdings Inc Stock Price and Quote
+371,Omeros Corp,OMER,14.65,,https://finviz.com/quote?t=OMER&p=d,OMER - Omeros Corp Stock Price and Quote
+372,Amphastar Pharmaceuticals,AMPH,21.3,Biopharmaceutical,https://finviz.com/quote?t=AMPH&p=d,AMPH - Amphastar Pharmaceuticals Inc Stock Price and Quote
+373,BioLife Solutions Inc,BLFS,24.04,Healthcare,https://finviz.com/quote?t=BLFS&p=d,BLFS - Biolife Solutions Inc Stock Price and Quote
+374,Kuros Biosciences AG,YTSN,22.22,Biotechnology,,
+375,Geron Corporation,GERN,1.46,Biotechnology V,https://finviz.com/quote?t=GERN&p=d,GERN - Geron Corp Stock Price and Quote
+376,GeneDx Holdings Corporation,WGS,39.81,,https://finviz.com/quote?t=WGS&p=d,WGS - GeneDx Holdings Corp Stock Price and Quote
+377,Rhoén-Klinikum,RHK,12.75,Healthcare,,
+378,Phathom Pharmaceuticals,PHAT,12.47,Pharmaceuticals,https://finviz.com/quote?t=PHAT&p=d,PHAT - Phathom Pharmaceuticals Inc Stock Price and Quote
+379,croyos. Cronos Group Inc,CRON,2.64,Cannabinoids,https://finviz.com/quote?t=CRON&p=d,CRON - Cronos Group Inc Stock Price and Quote
+380,Lumexa Imaging Holdings,LMRI,10.22,Providers of outpatient diagnostic...,https://finviz.com/quote?t=LMRI&p=d,LMRI - Lumexa Imaging Holdings Inc Stock Price and Quote
+381,Sana Biotechnology Inc,SANA,3.62,Biotechnology,https://finviz.com/quote?t=SANA&p=d,SANA - Sana Biotechnology Inc Stock Price and Quote
+382,ORIC Pharmaceuticals,ORIC,9.24,Pharmaceuticals v,https://finviz.com/quote?t=ORIC&p=d,ORIC - ORIC Pharmaceuticals Inc Stock Price and Quote
+383,Certara,CERT,6.32,Software,https://finviz.com/quote?t=CERT&p=d,CERT - Certara Inc Stock Price and Quote
+384,Schrodinger Inc,SDGR,13.26,Software,https://finviz.com/quote?t=SDGR&p=d,SDGR - Schrodinger Inc Stock Price and Quote
+385,Dynavox Group AB,H3Q,7.62,,,
+386,Xencor Inc,XNCR,12.68,Biotech V,https://finviz.com/quote?t=XNCR&p=d,XNCR - Xencor Inc Stock Price and Quote
+387,Omada Health Inc,OMDA,16.54,,https://finviz.com/quote?t=OMDA&p=d,OMDA - Omada Health Inc Stock Price and Quote
+388,Pacira Pharmaceuticals Inc,PCRX,23.6,Pharmaceutical,https://finviz.com/quote?t=PCRX&p=d,PCRX - Pacira BioSciences Inc Stock Price and Quote
+389,Absci,ABSI,4.82,Biotech,https://finviz.com/quote?t=ABSI&p=d,ABSI - Absci Corp Stock Price and Quote
+390,Sellas Life Sciences Group,SLS,8.86,,https://finviz.com/quote?t=SLS&p=d,SLS - SELLAS Life Sciences Group Inc Stock Price and Quote
+391,Cullinan Oncology,CGEM,14.32,Biotech,https://finviz.com/quote?t=CGEM&p=d,CGEM - Cullinan Therapeutics Inc Stock Price and Quote
+392,MeiraGTx,MGTX,9.68,Biotechnology,https://finviz.com/quote?t=MGTX&p=d,MGTX - MeiraGTx Holdings plc Stock Price and Quote
+393,Design Therapeutics,DSGN,14.1,Services,https://finviz.com/quote?t=DSGN&p=d,DSGN - Design Therapeutics Inc Stock Price and Quote
+394,Nutex Health Inc.,NUTX,132.99,Medical group,https://finviz.com/quote?t=NUTX&p=d,NUTX - Nutex Health Inc Stock Price and Quote
+395,CytomX Therapeutics Inc,CTMX,4,,https://finviz.com/quote?t=CTMX&p=d,CTMX - CytomX Therapeutics Inc Stock Price and Quote
+396,Janux Therapeutics,JANX,14.46,Healthcare,https://finviz.com/quote?t=JANX&p=d,JANX - Janux Therapeutics Inc Stock Price and Quote
+397,Chemometec AS,CHY,42.63,Analytical Equipment,https://finviz.com/quote?t=CHY&p=d,CHY - Calamos Convertible and High Income Fund Stock Price and Quote
+398,Theravance Biopharma Inc,TBPH,17.02,Pharmaceutical,https://finviz.com/quote?t=TBPH&p=d,TBPH - Theravance Biopharma Inc Stock Price and Quote
+399,Arbutus Biopharma,ABUS,4.34,Biotech V,https://finviz.com/quote?t=ABUS&p=d,ABUS - Arbutus Biopharma Corp Stock Price and Quote
+400,Bright Minds Biosciences Inc,DRUG,88.75,,https://finviz.com/quote?t=DRUG&p=d,DRUG - Bright Minds Biosciences Inc Stock Price and Quote
+401,Talkspace,TALK,5.18,Digital Healthcare,https://finviz.com/quote?t=TALK&p=d,TALK - Talkspace Inc Stock Price and Quote
+402,Basilea Pharmaceutica AG,PK5,59.05,Pharmaceuticals,,
+403,Inmode,INMD,13.66,Medical Devices,https://finviz.com/quote?t=INMD&p=d,INMD - Inmode Ltd Stock Price and Quote
+404,Evommune Inc,EVMN,23.4,,https://finviz.com/quote?t=EVMN&p=d,EVMN - Evommune Inc Stock Price and Quote
+405,Kura Oncology,KURA,9.46,Biotechnology v,https://finviz.com/quote?t=KURA&p=d,KURA - Kura Oncology Inc Stock Price and Quote
+406,Azenta,AZTA,18.62,Biotechnology,https://finviz.com/quote?t=AZTA&p=d,AZTA - Azenta Inc Stock Price and Quote
+407,Opko Health,OPK,1.12,Pharmaceuticals v,https://finviz.com/quote?t=OPK&p=d,OPK - Opko Health Inc Stock Price and Quote
+408,Paul Hartmann AG.,PHH2,205,Healthcare 0%,,
+409,Relmada Therapeutics Inc,RLMD,7.42,Clinical Biopharmaceutical V,https://finviz.com/quote?t=RLMD&p=d,RLMD - Relmada Therapeutics Inc Stock Price and Quote
+410,Eton Pharmaceuticals Inc,ETON,31.64,Pharmaceuticals,https://finviz.com/quote?t=ETON&p=d,ETON - Eton Pharmaceuticals Inc Stock Price and Quote
+411,SS Innovations International Inc,SSII,3.99,,https://finviz.com/quote?t=SSII&p=d,SSII - SS Innovations International Inc Stock Price and Quote
+412,Esperion Therapeutics Inc,ESPR,3.14,Pharmaceutical,https://finviz.com/quote?t=ESPR&p=d,ESPR - Esperion Therapeutics Inc Stock Price and Quote
+413,AMN Healthcare Services,AMN,23.48,Employment Agency,https://finviz.com/quote?t=AMN&p=d,AMN - AMN Healthcare Services Inc Stock Price and Quote
+414,Ironwood Pharmaceuticals Inc,IRWD,4.23,Healthcare v,https://finviz.com/quote?t=IRWD&p=d,IRWD - Ironwood Pharmaceuticals Inc Stock Price and Quote
+415,S Alto Neuroscience Inc,ANRO,24.03,Healthcare V,https://finviz.com/quote?t=ANRO&p=d,ANRO - Alto Neuroscience Inc Stock Price and Quote
+416,Gyre Therapeutics Inc,GYRE,7.35,Biotechnology V,https://finviz.com/quote?t=GYRE&p=d,GYRE - Gyre Therapeutics Inc Stock Price and Quote
+417,Vor Biopharma Inc,VOR,16.08,Cell Genome Engineering,https://finviz.com/quote?t=VOR&p=d,VOR - Vor Biopharma Inc Stock Price and Quote
+418,Cognyte Software Ltd,CGNT,10.91,Software,https://finviz.com/quote?t=CGNT&p=d,CGNT - Cognyte Software Ltd Stock Price and Quote
+419,Allogene Therapeutics,ALLO,2.27,Healthcare V,https://finviz.com/quote?t=ALLO&p=d,ALLO - Allogene Therapeutics Inc Stock Price and Quote
+420,CeriBell Inc,CBLL,20.43,,https://finviz.com/quote?t=CBLL&p=d,CBLL - Ceribell Inc Stock Price and Quote
+421,Castle Biosciences,CSTL,19.08,Diagnostics,https://finviz.com/quote?t=CSTL&p=d,CSTL - Castle Biosciences Inc Stock Price and Quote
+422,Quidelortho Corp,QDEL,11,Healthcare,https://finviz.com/quote?t=QDEL&p=d,QDEL - QuidelOrtho Corp Stock Price and Quote
+423,Bioventus Inc,BVS,10.66,Healthcare v,https://finviz.com/quote?t=BVS&p=d,BVS - Bioventus Inc Stock Price and Quote
+424,RaySearch Laboratories AB,27R,17.29,Oncology Software,,
+425,Solid Biosciences Inc,SLDB,6.93,Gene therapy Vv 3./5%,https://finviz.com/quote?t=SLDB&p=d,SLDB - Solid Biosciences Inc Stock Price and Quote
+426,Enhabit,EHAB,14.38,Healthcare,https://finviz.com/quote?t=EHAB&p=d,EHAB - Enhabit Inc Stock Price and Quote
+427,Tilray Brands Inc,TLRY,5.72,Cannabis,https://finviz.com/quote?t=TLRY&p=d,TLRY - Tilray Brands Inc Stock Price and Quote
+428,Lexicon Pharmaceuticals,LXRX,1.64,Biotechnology,https://finviz.com/quote?t=LXRX&p=d,LXRX - Lexicon Pharmaceuticals Inc Stock Price and Quote
+429,Alpha Tau Medical Ltd,DRTS,7.84,Cancer Therapy Developer,https://finviz.com/quote?t=DRTS&p=d,DRTS - Alpha Tau Medical Ltd Stock Price and Quote
+430,rs Claris Therapeutics Inc,ACRS,4.88,,https://finviz.com/quote?t=ACRS&p=d,ACRS - Aclaris Therapeutics Inc Stock Price and Quote
+431,BridgeBio Oncology Therapeutics,BBOT,7.92,,https://finviz.com/quote?t=BBOT&p=d,BBOT - BridgeBio Oncology Therapeutics Inc Stock Price and Quote
+432,Zevra Therapeutics,ZVRA,10.65,Pharmaceutical v,https://finviz.com/quote?t=ZVRA&p=d,ZVRA - Zevra Therapeutics Inc Stock Price and Quote
+433,Arvinas Inc,ARVN,10.07,Pharmaceutical v,https://finviz.com/quote?t=ARVN&p=d,ARVN - Arvinas Inc Stock Price and Quote
+434,Personalis Inc,PSNL,5.96,Healthcare,https://finviz.com/quote?t=PSNL&p=d,PSNL - Personalis Inc Stock Price and Quote
+435,Cytek Biosciences,CTKB,4.2,Biotechnology v,https://finviz.com/quote?t=CTKB&p=d,CTKB - Cytek BioSciences Inc Stock Price and Quote
+436,Altimmune,ALT,3.04,Biotech v,https://finviz.com/quote?t=ALT&p=d,ALT - Altimmune Inc Stock Price and Quote
+437,Cormedix,CRMD,7.85,Pharmaceuticals,https://finviz.com/quote?t=CRMD&p=d,CRMD - CorMedix Inc Stock Price and Quote
+438,Sutro Biopharma Inc,STRO,39.9,Biotechnology,https://finviz.com/quote?t=STRO&p=d,STRO - Sutro Biopharma Inc Stock Price and Quote
+439,Entrada Therapeutics Inc,TRDA,7.06,,https://finviz.com/quote?t=TRDA&p=d,TRDA - Entrada Therapeutics Inc Stock Price and Quote
+440,Anteris Technologies Global Corp,AVR,6.29,,https://finviz.com/quote?t=AVR&p=d,AVR - Anteris Technologies Global Corp Stock Price and Quote
+441,Prime Medicine Inc,PRME,3.16,,https://finviz.com/quote?t=PRME&p=d,PRME - Prime Medicine Inc Stock Price and Quote
+442,Neuropace,NPCE,19.32,Healthcare,https://finviz.com/quote?t=NPCE&p=d,NPCE - NeuroPace Inc Stock Price and Quote
+443,Cabaletta Bio,CABA,3.84,Biotech,https://finviz.com/quote?t=CABA&p=d,CABA - Cabaletta Bio Inc Stock Price and Quote
+444,Prothena Corporation PLC,PRTA,11.06,Biotechnology,https://finviz.com/quote?t=PRTA&p=d,PRTA - Prothena Corp Plc Stock Price and Quote
+445,Ginkgo Bioworks Holdings Inc,DNA,8.98,Services,https://finviz.com/quote?t=DNA&p=d,DNA - Ginkgo Bioworks Holdings Inc Stock Price and Quote
+446,Climb Bio,CLYM,11.94,Biotechnology,https://finviz.com/quote?t=CLYM&p=d,CLYM - Climb Bio Inc Stock Price and Quote
+447,Avalo Therapeutics Inc,AVTX,22.62,Biotechnology,https://finviz.com/quote?t=AVTX&p=d,AVTX - Avalo Therapeutics Inc Stock Price and Quote
+448,Phreesia,PHR,9.62,Healthcare,https://finviz.com/quote?t=PHR&p=d,PHR - Phreesia Inc Stock Price and Quote
+449,Maravai Lifesciences,MRVI,4,Biotechnology,https://finviz.com/quote?t=MRVI&p=d,MRVI - Maravai LifeSciences Holdings Inc Stock Price and Quote
+450,Sl-Bone,SIBN,12.96,Medical devices,https://finviz.com/quote?t=SIBN&p=d,SIBN - SI-BONE Inc Stock Price and Quote
+451,Kyverna Therapeutics Inc,KYTX,9.3,Biotech V,https://finviz.com/quote?t=KYTX&p=d,KYTX - Kyverna Therapeutics Inc Stock Price and Quote
+452,Tactile Systems Technology,TCMD,27.39,Medical devices,https://finviz.com/quote?t=TCMD&p=d,TCMD - Tactile Systems Technology Inc Stock Price and Quote
+453,Candel Therapeutics Inc,CADL,7.69,Biotech,https://finviz.com/quote?t=CADL&p=d,CADL - Candel Therapeutics Inc Stock Price and Quote
+454,Contineum Therapeutics Inc,CTNM,14.57,,https://finviz.com/quote?t=CTNM&p=d,CTNM - Contineum Therapeutics Inc Stock Price and Quote
+455,Immix Biopharma Inc,IMMX,9.53,,https://finviz.com/quote?t=IMMX&p=d,IMMX - Immix Biopharma Inc Stock Price and Quote
+456,MiMedx Group,MDXG,3.7,Biotechnology,https://finviz.com/quote?t=MDXG&p=d,MDXG - Mimedx Group Inc Stock Price and Quote
+457,Tectonic Therapeutic Inc,TECX,26.87,Biotechnology V7M%,https://finviz.com/quote?t=TECX&p=d,TECX - Tectonic Therapeutic Inc Stock Price and Quote
+458,AD Molecular Therapeutics,FDMT,9.46,Biotech V,https://finviz.com/quote?t=FDMT&p=d,FDMT - 4D Molecular Therapeutics Inc Stock Price and Quote
+459,Eikon Therapeutics Inc.,EIKN,9.19,Clinical biopharmaceutical company Y 7.82%,https://finviz.com/quote?t=EIKN&p=d,EIKN - Eikon Therapeutics Inc Stock Price and Quote
+460,Aura Biosciences,AURA,8.22,Biotechnology v,https://finviz.com/quote?t=AURA&p=d,AURA - Aura Biosciences Inc Stock Price and Quote
+461,Verastem Inc,VSTM,5.18,,https://finviz.com/quote?t=VSTM&p=d,VSTM - Verastem Inc Stock Price and Quote
+462,Regenxbio,RGNX,10.4,Biotechnology,https://finviz.com/quote?t=RGNX&p=d,RGNX - Regenxbio Inc Stock Price and Quote
+463,Aquestive Therapeutics Inc,AQST,4.2,,https://finviz.com/quote?t=AQST&p=d,AQST - Aquestive Therapeutics Inc Stock Price and Quote
+464,Forte Biosciences Inc,FBRX,26.05,,https://finviz.com/quote?t=FBRX&p=d,FBRX - Forte Biosciences Inc Stock Price and Quote
+465,Cerus Corp,CERS,2.62,,https://finviz.com/quote?t=CERS&p=d,CERS - Cerus Corp Stock Price and Quote
+466,Sagimet Biosciences Inc,SGMT,7.94,Biotechnology v,https://finviz.com/quote?t=SGMT&p=d,SGMT - Sagimet Biosciences Inc Stock Price and Quote
+467,Pacific Biosciences of California,PACB,1.54,Biotechnology,https://finviz.com/quote?t=PACB&p=d,PACB - Pacific Biosciences of California Inc Stock Price and Quote
+468,Varex Imaging Corporation,VREX,11.03,Medical X-ray tubes andimage pr...,https://finviz.com/quote?t=VREX&p=d,VREX - Varex Imaging Corp Stock Price and Quote
+469,Shattuck Labs Inc,STTK,6.43,Clinical Biopharmaceutical Comp...,https://finviz.com/quote?t=STTK&p=d,STTK - Shattuck Labs Inc Stock Price and Quote
+470,Neurogene Inc,NGNE,31.08,Biotechnology,https://finviz.com/quote?t=NGNE&p=d,NGNE - Neurogene Inc Stock Price and Quote
+471,Upstream Bio Inc,UPB,41.31,,https://finviz.com/quote?t=UPB&p=d,UPB - Upstream Bio Inc Stock Price and Quote
+472,Assembly Biosciences,ASMB,8.99,Biotech,https://finviz.com/quote?t=ASMB&p=d,ASMB - Assembly Biosciences Inc Stock Price and Quote
+473,Crescent Biopharma Inc,CBIO,31.13,Biotechnology,https://finviz.com/quote?t=CBIO&p=d,CBIO - Crescent Biopharma Inc Stock Price and Quote
+474,Rigel Pharmaceuticals,RIGL,18,Biotech,https://finviz.com/quote?t=RIGL&p=d,RIGL - Rigel Pharmaceuticals Stock Price and Quote
+475,Achieve Life Sciences,ACHV,26.32,Biotechnology,https://finviz.com/quote?t=ACHV&p=d,ACHV - Achieve Life Sciences Inc Stock Price and Quote
+476,Orthofix Medical,OFIX,4.82,Healthcare,https://finviz.com/quote?t=OFIX&p=d,OFIX - Orthofix Medical Inc Stock Price and Quote
+477,Lyell Immunopharma Inc,LYEL,20.08,,https://finviz.com/quote?t=LYEL&p=d,LYEL - Lyell Immunopharma Inc Stock Price and Quote
+478,Kamada Ltd,KMDA,8.25,Biopharmaceuticals V,https://finviz.com/quote?t=KMDA&p=d,KMDA - Kamada Ltd Stock Price and Quote
+479,Fulcrum Therapeutics Inc,FULC,6.87,Pharmaceutical V,https://finviz.com/quote?t=FULC&p=d,FULC - Fulcrum Therapeutics Inc Stock Price and Quote
+480,Beta Bionics Inc,BBNX,10.48,,https://finviz.com/quote?t=BBNX&p=d,BBNX - Beta Bionics Inc Stock Price and Quote
+481,EMergent Biosolutions Inc,EBS,9.1,Biotech 0%,https://finviz.com/quote?t=EBS&p=d,EBS - Emergent Biosolutions Inc Stock Price and Quote
+482,Eupraxia Pharmaceuticals Inc,EPRX,7.49,,https://finviz.com/quote?t=EPRX&p=d,EPRX - Eupraxia Pharmaceuticals Inc Stock Price and Quote
+483,Zura Bio Ltd,ZURA,4.61,Biotechnology v,https://finviz.com/quote?t=ZURA&p=d,ZURA - Zura Bio Ltd Stock Price and Quote
+484,Lexeo Therapeutics Inc,LXEO,5.82,Biotech,https://finviz.com/quote?t=LXEO&p=d,LXEO - Lexeo Therapeutics Inc Stock Price and Quote
+485,AngioDynamics,ANGO,11.26,Healthcare,https://finviz.com/quote?t=ANGO&p=d,ANGO - Angiodynamic Inc Stock Price and Quote
+486,Atea Pharmaceuticals,AVIR,5.53,,https://finviz.com/quote?t=AVIR&p=d,AVIR - Atea Pharmaceuticals Inc Stock Price and Quote
+487,Claritev Corp,CTEV,24.14,,https://finviz.com/quote?t=CTEV&p=d,CTEV - Claritev Corp Stock Price and Quote
+488,Medley Inc.,3YV,12.45,Healthcare Technology Platform,,
+489,Enanta Pharmaceuticals,ENTA,15.08,Biotechnology,https://finviz.com/quote?t=ENTA&p=d,ENTA - Enanta Pharmaceuticals Inc Stock Price and Quote
+490,Vanda Pharmaceuticals,VNDA,6.44,Pharmaceuticals,https://finviz.com/quote?t=VNDA&p=d,VNDA - Vanda Pharmaceuticals Inc Stock Price and Quote
+491,Orthopediatrics Corp,KIDS,17.47,Medical devices,https://finviz.com/quote?t=KIDS&p=d,KIDS - OrthoPediatrics corp Stock Price and Quote
+492,Larimar Therapeutics,LRMR,3.97,Biotech v,https://finviz.com/quote?t=LRMR&p=d,LRMR - Larimar Therapeutics Inc Stock Price and Quote
+493,Benitec Biopharma,BNTC,12.11,Biotech V,https://finviz.com/quote?t=BNTC&p=d,BNTC - Benitec Biopharma Inc Stock Price and Quote
+494,Revenio Group Oyj,R0V,13.71,Eye Care Diagnostics,,
+495,Monopar Therapeutics Inc,MNPR,62.3,,https://finviz.com/quote?t=MNPR&p=d,MNPR - Monopar Therapeutics Inc Stock Price and Quote
+496,Neumora Therapeutics,NMRA,1.96,Biotechnology,https://finviz.com/quote?t=NMRA&p=d,NMRA - Neumora Therapeutics Inc Stock Price and Quote
+497,Fulgent Genetics Inc,FLGT,14.72,Clinical diagnostic,https://finviz.com/quote?t=FLGT&p=d,FLGT - Fulgent Genetics Inc Stock Price and Quote
+498,Century Therapeutics Inc,IPSC,2.3,Cell Therapy Development V,https://finviz.com/quote?t=IPSC&p=d,IPSC - Century Therapeutics Inc Stock Price and Quote
+499,Rocket Pharmaceuticals Inc,RCKT,3.64,Healthcare v,https://finviz.com/quote?t=RCKT&p=d,RCKT - Rocket Pharmaceuticals Inc Stock Price and Quote
+500,Evolus,EOLS,6.53,Pharma,https://finviz.com/quote?t=EOLS&p=d,EOLS - Evolus Inc Stock Price and Quote
+501,Invivyd Inc,IVVD,1.44,Biotechnology Infectious Disease,https://finviz.com/quote?t=IVVD&p=d,IVVD - Invivyd Inc Stock Price and Quote
+502,Community Health Systems,CYH,2.85,Healthcare,https://finviz.com/quote?t=CYH&p=d,CYH - Community Health Systems Inc Stock Price and Quote
+503,Medios AG,ILM1,14.33,Pharmaceuticals V,,
+504,X4 Pharmaceuticals Inc,XFOR,4.3,,https://finviz.com/quote?t=XFOR&p=d,XFOR - X4 Pharmaceuticals Inc Stock Price and Quote
+505,Niagen Bioscience Inc.,NAGE,4.2,Bioscience,https://finviz.com/quote?t=NAGE&p=d,NAGE - Niagen Bioscience Inc Stock Price and Quote
+506,Akebia Therapeutics Inc,AKBA,1.21,Pharmaceuticals,https://finviz.com/quote?t=AKBA&p=d,AKBA - Akebia Therapeutics Inc Stock Price and Quote
+507,Akebia,AKBA,1.63,,https://finviz.com/quote?t=AKBA&p=d,AKBA - Akebia Therapeutics Inc Stock Price and Quote
+508,Surrozen Inc,SRZN,30.94,,https://finviz.com/quote?t=SRZN&p=d,SRZN - Surrozen Inc Stock Price and Quote
+509,Delcath Systems Inc,DCTH,11.24,Healthcare,https://finviz.com/quote?t=DCTH&p=d,DCTH - Delcath Systems Inc Stock Price and Quote
+510,Formycon AG,FYB,19.43,Biotechnology,,
+511,Myriad Genetics,MYGN,4.1,Genomic Testing,https://finviz.com/quote?t=MYGN&p=d,MYGN - Myriad Genetics Inc Stock Price and Quote
+512,Auna SA,AUNA,5.14,,https://finviz.com/quote?t=AUNA&p=d,AUNA - Auna SA Stock Price and Quote
+513,Puma Biotechnology Inc,PBYI,17.74,,https://finviz.com/quote?t=PBYI&p=d,PBYI - Puma Biotechnology Inc Stock Price and Quote
+514,Standard BioTools,LAB,7.34,Healthcare,https://finviz.com/quote?t=LAB&p=d,LAB - Standard BioTools Inc Stock Price and Quote
+515,Oncology Institute Inc,TOI,4.14,,https://finviz.com/quote?t=TOI&p=d,TOI - Oncology Institute Inc Stock Price and Quote
+516,Opus Genetics Inc,IRD,5.24,Biopharmaceutical Company V,https://finviz.com/quote?t=IRD&p=d,IRD - Opus Genetics Inc Stock Price and Quote
+517,Nautilus Biotechnology Inc,NAUT,2.88,Biotechnology V,https://finviz.com/quote?t=NAUT&p=d,NAUT - Nautilus Biotechnology Inc Stock Price and Quote
+518,YD Bio Ltd,YDES,5.24,Biotech company,https://finviz.com/quote?t=YDES&p=d,YDES - YD Bio Ltd Stock Price and Quote
+519,SOPHIA GENETICS SA,SOPH,5.26,,https://finviz.com/quote?t=SOPH&p=d,SOPH - SOPHiA Genetics SA Stock Price and Quote
+520,Fuji Pharma Co. Ltd.,FUP,12.15,Pharmaceuticals Manufacturer,,
+521,DiaMedica Therapeutics Inc,DMAC,6.46,,https://finviz.com/quote?t=DMAC&p=d,DMAC - DiaMedica Therapeutics Inc Stock Price and Quote
+522,CapsovVision Inc,CV,7.2,,https://finviz.com/quote?t=CV&p=d,CV - CapsoVision Inc Stock Price and Quote
+523,ClearPoint Neuro,CLPT,11.65,Therapy-enabling platform,https://finviz.com/quote?t=CLPT&p=d,CLPT - ClearPoint Neuro Inc Stock Price and Quote
+524,Abeona Therapeutics,ABEO,5.78,Biotech,https://finviz.com/quote?t=ABEO&p=d,ABEO - Abeona Therapeutics Inc Stock Price and Quote
+525,Clinuvel Pharmaceuticals Ltd.,UR9,5.81,Specialty Biopharmaceutical Group,,
+526,Compass Therapeutics Inc.,CMPX,1.78,,https://finviz.com/quote?t=CMPX&p=d,CMPX - Compass Therapeutics Inc Stock Price and Quote
+527,SIGA Technologies,SIGA,4.56,Pharmaceutical V,https://finviz.com/quote?t=SIGA&p=d,SIGA - SIGA Technologies Inc Stock Price and Quote
+528,Immuneering Corp,IMRX,5.19,,https://finviz.com/quote?t=IMRX&p=d,IMRX - Immuneering Corp Stock Price and Quote
+529,SBC Medical Group Holdings Inc,SBC,3.32,,https://finviz.com/quote?t=SBC&p=d,SBC - SBC Medical Group Holdings Inc Stock Price and Quote
+530,Organogenesis,ORGO,2.26,Healthcare,https://finviz.com/quote?t=ORGO&p=d,ORGO - Organogenesis Holdings Inc Stock Price and Quote
+531,Viemed Healthcare Inc,VMD,9.2,Medical equipment,https://finviz.com/quote?t=VMD&p=d,VMD - Viemed Healthcare Inc Stock Price and Quote
+532,Greenwich LifeSciences,GLSI,23.76,Healthcare,https://finviz.com/quote?t=GLSI&p=d,GLSI - Greenwich LifeSciences Inc Stock Price and Quote
+533,Protara Therapeutics Inc,TARA,5.15,,https://finviz.com/quote?t=TARA&p=d,TARA - Protara Therapeutics Inc Stock Price and Quote
+534,Editas Medicine,EDIT,3,Biotechnology v,https://finviz.com/quote?t=EDIT&p=d,EDIT - Editas Medicine Inc Stock Price and Quote
+535,Anavex Life Sciences Corp.,AVXL,3.15,Biopharmaceutical V,https://finviz.com/quote?t=AVXL&p=d,AVXL - Anavex Life Sciences Corp Stock Price and Quote
+536,Artiva Biotherapeutics Inc,ARTV,12.39,,https://finviz.com/quote?t=ARTV&p=d,ARTV - Artiva Biotherapeutics Inc Stock Price and Quote
+537,Lenz Therapeutics Inc,LENZ,9.57,Biotech v,https://finviz.com/quote?t=LENZ&p=d,LENZ - LENZ Therapeutics Inc Stock Price and Quote
+538,AC Immune,ACIU,2.95,Pharmaceuticals,https://finviz.com/quote?t=ACIU&p=d,ACIU - AC Immune SA Stock Price and Quote
+539,Devices,MASS,8.07,Commercial company,https://finviz.com/quote?t=MASS&p=d,MASS - 908 Devices Inc Stock Price and Quote
+540,Rezolute Inc,RZLT,3.1,Biotechnology,https://finviz.com/quote?t=RZLT&p=d,RZLT - Rezolute Inc Stock Price and Quote
+541,Zentalis Pharmaceuticals,ZNTL,4.24,Biotech,https://finviz.com/quote?t=ZNTL&p=d,ZNTL - Zentalis Pharmaceuticals Inc Stock Price and Quote
+542,Eledon Pharmaceuticals Inc,ELDN,3.86,Biotechnology,https://finviz.com/quote?t=ELDN&p=d,ELDN - Eledon Pharmaceuticals Inc Stock Price and Quote
+543,C4 Therapeutics,CCCC,2.97,Biotechnology,https://finviz.com/quote?t=CCCC&p=d,CCCC - C4 Therapeutics Inc Stock Price and Quote
+544,Alector,ALEC,2.44,Biotechnology,https://finviz.com/quote?t=ALEC&p=d,ALEC - Alector Inc Stock Price and Quote
+545,Replimune Group,REPL,3.29,Biotechnology v,https://finviz.com/quote?t=REPL&p=d,REPL - Replimune Group Inc Stock Price and Quote
+546,"Accendra Health, Inc.",ACH,3.68,Healthcare,https://finviz.com/quote?t=ACH&p=d,ACH - Accendra Health Inc Stock Price and Quote
+547,Rxsight Inc,RXST,5.79,Medical technology,https://finviz.com/quote?t=RXST&p=d,RXST - RxSight Inc Stock Price and Quote
+548,TriSalus Life Sciences Inc,TLSI,4.46,Healthcare v,https://finviz.com/quote?t=TLSI&p=d,TLSI - TriSalus Life Sciences Inc Stock Price and Quote
+549,ProKidney Corp,PROK,1.89,Cellular Therapeutics V,https://finviz.com/quote?t=PROK&p=d,PROK - ProKidney Corp Stock Price and Quote
+550,Foghorn Therapeutics,FHTX,4.23,Therapeutics,https://finviz.com/quote?t=FHTX&p=d,FHTX - Foghorn Therapeutics Inc Stock Price and Quote
+551,Coherus Oncology Inc,CHRS,1.78,Biotechnology Company,https://finviz.com/quote?t=CHRS&p=d,CHRS - Coherus Oncology Inc Stock Price and Quote
+552,Prenetics Global Ltd,PRE,15.89,,https://finviz.com/quote?t=PRE&p=d,PRE - Prenetics Global Limited Stock Price and Quote
+553,Carlsmed Inc,CARL,9.76,,https://finviz.com/quote?t=CARL&p=d,CARL - Carlsmed Inc Stock Price and Quote
+554,Fate Fate Therapeutics Inc,FATE,2.4,Biotech,https://finviz.com/quote?t=FATE&p=d,FATE - Fate Therapeutics Inc Stock Price and Quote
+555,Shoulder Innovations Inc,SI,12.81,,https://finviz.com/quote?t=SI&p=d,SI - Shoulder Innovations Inc Stock Price and Quote
+556,Nuvectis Pharma Inc,NVCT,10.34,Biopharmaceutical,https://finviz.com/quote?t=NVCT&p=d,NVCT - Nuvectis Pharma Inc Stock Price and Quote
+557,Profound Medical Corp,PROF,7.19,Medical devices,https://finviz.com/quote?t=PROF&p=d,PROF - Profound Medical Corp Stock Price and Quote
+558,Arcturus Therapeutics Holdings Inc,ARCT,7.67,Biotechnology V,https://finviz.com/quote?t=ARCT&p=d,ARCT - Arcturus Therapeutics Holdings Inc Stock Price and Quote
+559,LifeMD Inc.,LFMD,4.55,Healthcare V,https://finviz.com/quote?t=LFMD&p=d,LFMD - LifeMD Inc Stock Price and Quote
+560,Airsculpt Technologies Inc,AIRS,3.6,,https://finviz.com/quote?t=AIRS&p=d,AIRS - Airsculpt Technologies Inc Stock Price and Quote
+561,voyager Therapeutics,VOYG,3.88,Biotechnology,https://finviz.com/quote?t=VOYG&p=d,VOYG - Voyager Technologies Inc Stock Price and Quote
+562,Fennec Pharmaceuticals Inc,FENC,6.9,Biotechnology V,https://finviz.com/quote?t=FENC&p=d,FENC - Fennec Pharmaceuticals Inc Stock Price and Quote
+563,Cartesian Therapeutics Inc,RNAC,8.17,Biotechnology,https://finviz.com/quote?t=RNAC&p=d,RNAC - Cartesian Therapeutics Inc Stock Price and Quote
+564,Codexis,CDXS,2.64,Biotechnology,https://finviz.com/quote?t=CDXS&p=d,CDXS - Codexis Inc Stock Price and Quote
+565,Orchestra Biomed Holdings Inc,OBIO,3.95,Biomedicals V,https://finviz.com/quote?t=OBIO&p=d,OBIO - Orchestra BioMed Holdings Inc Stock Price and Quote
+566,Nkarta Inc,NKTX,3.14,Biotech V,https://finviz.com/quote?t=NKTX&p=d,NKTX - Nkarta Inc Stock Price and Quote
+567,Sol Gel Technologies Ltd,SLGL,71,Pharmaceuticals Development V,https://finviz.com/quote?t=SLGL&p=d,SLGL - Sol-Gel Technologies Ltd Stock Price and Quote
+568,Keros Therapeutics,KROS,11.3,Biotech,https://finviz.com/quote?t=KROS&p=d,KROS - Keros Therapeutics Inc Stock Price and Quote
+569,Sight Sciences,SGHT,5.63,Healthcare,https://finviz.com/quote?t=SGHT&p=d,SGHT - Sight Sciences Inc Stock Price and Quote
+570,Atrium Therapeutics,RNA,12.96,Biotechnology v,https://finviz.com/quote?t=RNA&p=d,RNA - Atrium Therapeutics Inc Stock Price and Quote
+571,Mediwound Ltd,MDWD,17.28,Pharmaceutical,https://finviz.com/quote?t=MDWD&p=d,MDWD - MediWound Ltd Stock Price and Quote
+572,Context Therapeutics Inc,CNTX,2.32,,https://finviz.com/quote?t=CNTX&p=d,CNTX - Context Therapeutics Inc Stock Price and Quote
+573,OraSure Technologies Inc,OSUR,3,,https://finviz.com/quote?t=OSUR&p=d,OSUR - Orasure Technologies Inc Stock Price and Quote
+574,Electromed Inc,ELMD,26.02,Healthcare,https://finviz.com/quote?t=ELMD&p=d,ELMD - Electromed Inc Stock Price and Quote
+575,Embecta,EMBC,3.58,Diabetes Care,https://finviz.com/quote?t=EMBC&p=d,EMBC - Embecta Corp Stock Price and Quote
+576,Tonix Pharmaceuticals Holding Corp,TNXP,13.82,Biotechnology V,https://finviz.com/quote?t=TNXP&p=d,TNXP - Tonix Pharmaceuticals Holding Corp Stock Price and Quote
+577,OMNIAB,OABI,1.52,Drug discovery,https://finviz.com/quote?t=OABI&p=d,OABI - OmniAb Inc Stock Price and Quote
+578,Unicycive Therapeutics Inc,UNCY,7.94,,https://finviz.com/quote?t=UNCY&p=d,UNCY - Unicycive Therapeutics Inc Stock Price and Quote
+579,Utah Medical Products,UTMD,64.84,Healthcare,https://finviz.com/quote?t=UTMD&p=d,UTMD - Utah Medical Products Inc Stock Price and Quote
+580,Whitehawk Therapeutics Inc,WHWKV,3.95,,,
+581,InfuSystem Holdings,INFU,8.89,Healthcare V,https://finviz.com/quote?t=INFU&p=d,INFU - InfuSystem Holdings Inc Stock Price and Quote
+582,Karyopharm Therapeutics Inc,KPTI,8.84,,https://finviz.com/quote?t=KPTI&p=d,KPTI - Karyopharm Therapeutics Inc Stock Price and Quote
+583,Anika Therapeutics,ANIK,15.14,Therapeutics,https://finviz.com/quote?t=ANIK&p=d,ANIK - Anika Therapeutics Inc Stock Price and Quote
+584,Elicio Therapeutics Inc,ELTX,9.95,,https://finviz.com/quote?t=ELTX&p=d,ELTX - Elicio Therapeutics Inc Stock Price and Quote
+585,Alpha Teknova Inc,TKNO,4,,https://finviz.com/quote?t=TKNO&p=d,TKNO - Alpha Teknova Inc Stock Price and Quote
+586,Inogen,INGN,6.86,Oxygen concentrators,https://finviz.com/quote?t=INGN&p=d,INGN - Inogen Inc Stock Price and Quote
+587,Precision BioSciences Inc,DTIL,7.47,Biotechnology,https://finviz.com/quote?t=DTIL&p=d,DTIL - Precision Biosciences Inc Stock Price and Quote
+588,Corbus Pharmaceuticals Holdings,CRBP,10.82,,https://finviz.com/quote?t=CRBP&p=d,CRBP - Corbus Pharmaceuticals Holdings Inc Stock Price and Quote
+589,SAB Biotherapeutics Inc,SABS,4.08,,https://finviz.com/quote?t=SABS&p=d,SABS - SAB Biotherapeutics Inc Stock Price and Quote
+590,"Korro Bio, Inc",KRRO,12.64,Biotechnology 7 B.2S%,https://finviz.com/quote?t=KRRO&p=d,KRRO - Korro Bio Inc Stock Price and Quote
+591,Y MacroGenics,MGNX,2.94,Biotechnology V,https://finviz.com/quote?t=MGNX&p=d,MGNX - Macrogenics Inc Stock Price and Quote
+592,KORU Medical Systems Inc,KRMD,4.45,,https://finviz.com/quote?t=KRMD&p=d,KRMD - KORU Medical Systems Inc Stock Price and Quote
+593,Caribou Biosciences,CRBU,1.9,Biotechnology,https://finviz.com/quote?t=CRBU&p=d,CRBU - Caribou Biosciences Inc Stock Price and Quote
+594,Pro-Dex Inc,PDEX,56.12,Manufacturer,https://finviz.com/quote?t=PDEX&p=d,PDEX - Pro-Dex Inc Stock Price and Quote
+595,Lifecore Biomedical,LFCR,4.76,Healthcare v,https://finviz.com/quote?t=LFCR&p=d,LFCR - Lifecore Biomedical Inc Stock Price and Quote
+596,Acumen Pharmaceuticals Inc,ABOS,2.48,,https://finviz.com/quote?t=ABOS&p=d,ABOS - Acumen Pharmaceuticals Inc Stock Price and Quote
+597,ProQR Therapeutics NV,PRQR,1.59,Biotechnology V,https://finviz.com/quote?t=PRQR&p=d,PRQR - ProQR Therapeutics N.V Stock Price and Quote
+598,Sanara Medtech,SMTI,19.02,Biotech,https://finviz.com/quote?t=SMTI&p=d,SMTI - Sanara MedTech Inc Stock Price and Quote
+599,Limes Schlosskliniken AG,LIK,500,Care clinic for mental and psychos...,,
+600,Insight Molecular Diagnostics Inc,IMDX,5,,https://finviz.com/quote?t=IMDX&p=d,IMDX - Insight Molecular Diagnostics Inc Stock Price and Quote
+601,Black Diamond Therapeutics Inc,BDTX,2.76,Biotechnology,https://finviz.com/quote?t=BDTX&p=d,BDTX - Black Diamond Therapeutics Inc Stock Price and Quote
+602,Jyong Biotech Ltd,MENS,2.05,,https://finviz.com/quote?t=MENS&p=d,MENS - Jyong Biotech Ltd Stock Price and Quote
+603,"Oramed Pharmaceuticals, Inc.",ORMP,3.83,,https://finviz.com/quote?t=ORMP&p=d,ORMP - Oramed Pharmaceuticals Inc Stock Price and Quote
+604,Heidelberg Pharma AG,HPHA,2.78,Biopharmaceutical company,,
+605,Quanterix,QTRX,2.68,Biotechnology,https://finviz.com/quote?t=QTRX&p=d,QTRX - Quanterix Corp Stock Price and Quote
+606,Agenus Inc,AGEN,3.76,Biotechnology,https://finviz.com/quote?t=AGEN&p=d,AGEN - Agenus Inc Stock Price and Quote
+607,BICO Group AB,49Z,1.81,Biotechnology,,
+608,Microbot Medical Inc,MBOT,2.12,,https://finviz.com/quote?t=MBOT&p=d,MBOT - Microbot Medical Inc Stock Price and Quote
+609,Spero Therapeutics Inc,SPRO,2.52,Clinical-Stage Biopharmaceutical,https://finviz.com/quote?t=SPRO&p=d,SPRO - Spero Therapeutics Inc Stock Price and Quote
+610,Verrica Pharmaceuticals Inc,VRCA,8.14,Pharmaceuticals,https://finviz.com/quote?t=VRCA&p=d,VRCA - Verrica Pharmaceuticals Inc Stock Price and Quote
+611,Journey Medical Corp,DERM,4.99,,https://finviz.com/quote?t=DERM&p=d,DERM - Journey Medical Corp Stock Price and Quote
+612,Nyxoah SA,NYXH,3.12,Medical devices V,https://finviz.com/quote?t=NYXH&p=d,NYXH - Nyxoah SA Stock Price and Quote
+613,SANUWAVE Health Inc,SNWV,16.67,,https://finviz.com/quote?t=SNWV&p=d,SNWV - Sanuwave Health Inc Stock Price and Quote
+614,Neonc Technologies Holdings Inc,NTHI,6.36,,https://finviz.com/quote?t=NTHI&p=d,NTHI - NeOnc Technologies Holdings Inc Stock Price and Quote
+615,Neuronetics Inc,STIM,1.84,,https://finviz.com/quote?t=STIM&p=d,STIM - Neuronetics Inc Stock Price and Quote
+616,Solana Co,HSDT,2.15,,https://finviz.com/quote?t=HSDT&p=d,HSDT - Solana Co Stock Price and Quote
+617,Genelux Corp,GNLX,2.82,,https://finviz.com/quote?t=GNLX&p=d,GNLX - Genelux Corp Stock Price and Quote
+618,Aardvark Therapeutics Inc,AARD,5.6,,https://finviz.com/quote?t=AARD&p=d,AARD - Aardvark Therapeutics Inc Stock Price and Quote
+619,PepGen Inc,PEPG,1.79,,https://finviz.com/quote?t=PEPG&p=d,PEPG - PepGen Inc Stock Price and Quote
+620,CareCloud Inc,CCLD,2.38,,https://finviz.com/quote?t=CCLD&p=d,CCLD - CareCloud Inc Stock Price and Quote
+621,Joint Corp,JYNT,8.67,Healthcare,https://finviz.com/quote?t=JYNT&p=d,JYNT - Joint Corp Stock Price and Quote
+622,Treace Medical Concepts Inc,TMCI,1.96,Healthcare,https://finviz.com/quote?t=TMCI&p=d,TMCI - Treace Medical Concepts Inc Stock Price and Quote
+624,Nano-X Imaging Ltd,NNOX,1.78,Healthcare,https://finviz.com/quote?t=NNOX&p=d,NNOX - Nano X Imaging Ltd Stock Price and Quote
+625,Apyx Medical Inc,APYX,3.54,Energy WAWAY/,https://finviz.com/quote?t=APYX&p=d,APYX - Apyx Medical Corp Stock Price and Quote
+626,OptimizeRx,OPRX,6.61,Healthcare,https://finviz.com/quote?t=OPRX&p=d,OPRX - OptimizeRx Corp Stock Price and Quote
+627,Cibus,CBUS,1.5,Gene Editing,https://finviz.com/quote?t=CBUS&p=d,CBUS - Cibus Inc Stock Price and Quote
+628,Fonar Corp,FONR,18.86,- Diagnostic imaging centers,https://finviz.com/quote?t=FONR&p=d,FONR - Fonar Corp Stock Price and Quote
+629,AMerican Well Corporation,AMWL,7.75,Healthcare,https://finviz.com/quote?t=AMWL&p=d,AMWL - American Well Corp Stock Price and Quote
+630,Kalaris Therapeutics Inc,KLRS,5.16,,https://finviz.com/quote?t=KLRS&p=d,KLRS - Kalaris Therapeutics Inc Stock Price and Quote
+631,Rapid Micro Biosystems Inc,RPID,2.56,,https://finviz.com/quote?t=RPID&p=d,RPID - Rapid Micro Biosystems Inc Stock Price and Quote
+632,Biomea Fusion,BMEA,1.64,Biotechnology,https://finviz.com/quote?t=BMEA&p=d,BMEA - Biomea Fusion Inc Stock Price and Quote
+633,Health Catalyst,HCAT,1.6,Software,https://finviz.com/quote?t=HCAT&p=d,HCAT - Health Catalyst Inc Stock Price and Quote
+634,Cardiff Oncology,CRDF,1.66,Biotechnology,https://finviz.com/quote?t=CRDF&p=d,CRDF - Cardiff Oncology Inc Stock Price and Quote
+635,AVITA Medical,RCEL,4.17,Healthcare V,https://finviz.com/quote?t=RCEL&p=d,RCEL - AVITA Medical Inc Stock Price and Quote
+636,Seer Inc.,SEER,1.88,Biotechnology,https://finviz.com/quote?t=SEER&p=d,SEER - Seer Inc Stock Price and Quote
+637,Aldeyra Therapeutics Inc,ALDX,1.76,,https://finviz.com/quote?t=ALDX&p=d,ALDX - Aldeyra Therapeutics Inc Stock Price and Quote
+638,MDxHealth SA,MDXH,2.02,,https://finviz.com/quote?t=MDXH&p=d,MDXH - MDxHealth SA Stock Price and Quote
+639,Anixa Biosciences Inc,ANIX,3,,https://finviz.com/quote?t=ANIX&p=d,ANIX - Anixa Biosciences Inc Stock Price and Quote
+640,Inovio Pharmaceuticals,INO,1.36,Biotechnology,https://finviz.com/quote?t=INO&p=d,INO - Inovio Pharmaceuticals Inc Stock Price and Quote
+641,Coya Therapeutics Inc,COYA,4.2,Biotechnology,https://finviz.com/quote?t=COYA&p=d,COYA - Coya Therapeutics Inc Stock Price and Quote
+642,Alpha Cognition Inc,ACOG,6.09,,https://finviz.com/quote?t=ACOG&p=d,ACOG - Alpha Cognition Inc Stock Price and Quote
+643,Definitive Healthcare Corp,DH,0.95,Technology,https://finviz.com/quote?t=DH&p=d,DH - Definitive Healthcare Corp Stock Price and Quote
+644,"Lakeland Industries, Inc.",LAKE,10.92,Protective garments,https://finviz.com/quote?t=LAKE&p=d,LAKE - Lakeland Industries Inc Stock Price and Quote
+645,Champions Oncology Inc,CSBR,5.79,Healthcare V,https://finviz.com/quote?t=CSBR&p=d,CSBR - Champions Oncology Inc Stock Price and Quote
+646,Annovis Bio,ANVS,2.31,Biotech V,https://finviz.com/quote?t=ANVS&p=d,ANVS - Annovis Bio Inc Stock Price and Quote
+647,Gossamer Bio Inc,GOSS,0.34,Biotech,https://finviz.com/quote?t=GOSS&p=d,GOSS - Gossamer Bio Inc Stock Price and Quote
+648,Fortress Biotech Inc,FBIO,2.46,,https://finviz.com/quote?t=FBIO&p=d,FBIO - Fortress Biotech Inc Stock Price and Quote
+649,XBiotech,XBIT,2.52,Biotechnology v,https://finviz.com/quote?t=XBIT&p=d,XBIT - XBiotech Inc Stock Price and Quote
+650,Seres Therapeutics Inc,MCRB,7.74,Biotherapeutics Developer V,https://finviz.com/quote?t=MCRB&p=d,MCRB - Seres Therapeutics Inc Stock Price and Quote
+651,Pliant Therapeutics Inc,PLRX,1.23,Healthcare 0%,https://finviz.com/quote?t=PLRX&p=d,PLRX - Pliant Therapeutics Inc Stock Price and Quote
+652,Exagen,XGN,2.95,Pharmaceuticals v,https://finviz.com/quote?t=XGN&p=d,XGN - Exagen Inc Stock Price and Quote
+653,Baird Medical Investment Holdings,BDMD,1.87,Medical Devices,https://finviz.com/quote?t=BDMD&p=d,BDMD - Baird Medical Investment Holdings Limited Stock Price and Quote
+654,Actuate Therapeutics Inc,ACTU,3.35,,https://finviz.com/quote?t=ACTU&p=d,ACTU - Actuate Therapeutics Inc Stock Price and Quote
+655,Sera Prognostics,SERA,1.96,Healthcare,https://finviz.com/quote?t=SERA&p=d,SERA - Sera Prognostics Inc Stock Price and Quote
+656,"A Filana Therapeutics, Inc.",FLNA,1.38,,https://finviz.com/quote?t=FLNA&p=d,FLNA - Filana Therapeutics Inc Stock Price and Quote
+657,Sensus Healthcare,SRTS,3.3,Medical Devices,https://finviz.com/quote?t=SRTS&p=d,SRTS - Sensus Healthcare Inc Stock Price and Quote
+658,LENSAR Inc,LNSR,5.2,,https://finviz.com/quote?t=LNSR&p=d,LNSR - LENSAR Inc Stock Price and Quote
+659,Pulmonx,LUNG,1.27,Biotechnology,https://finviz.com/quote?t=LUNG&p=d,LUNG - Pulmonx Corp Stock Price and Quote
+660,electroCore,ECOR,6.29,Medical technology V,https://finviz.com/quote?t=ECOR&p=d,ECOR - ElectroCore Inc Stock Price and Quote
+661,Metagenomi Inc,MGX,1.44,,https://finviz.com/quote?t=MGX&p=d,MGX - Metagenomi Therapeutics Inc Stock Price and Quote
+662,MeVis Medical Solutions AG,M3V,23.1,Medical technology 0%,,
+663,Nutriband Inc,NTRB,3.64,Pharmaceutical,https://finviz.com/quote?t=NTRB&p=d,NTRB - Nutriband Inc Stock Price and Quote
+664,Alexanderwerk AG,ALXA,13.5,Mechanical engineer,,
+665,INmune Bio,INMB,1.44,Biotechnology,https://finviz.com/quote?t=INMB&p=d,INMB - INmune Bio Inc Stock Price and Quote
+666,Veru Inc,VERU,2.26,Healthcare,https://finviz.com/quote?t=VERU&p=d,VERU - Veru Inc Stock Price and Quote
+667,CervoMed Inc,CRVO,3.85,Biotechnology,https://finviz.com/quote?t=CRVO&p=d,CRVO - CervoMed Inc Stock Price and Quote
+668,Serina Therapeutics,SER,1.83,Biotech 0%,https://finviz.com/quote?t=SER&p=d,SER - Serina Therapeutics Inc Stock Price and Quote
+669,JASPER THERAPEUTICS INC,JSPR,0.91,Biotechnology,https://finviz.com/quote?t=JSPR&p=d,JSPR - Jasper Therapeutics Inc Stock Price and Quote
+670,Ss NanoRepro AG,NN6,1.5,Healthcare,,
+671,Biofrontera AG,B8FK,2.4,Pharmaceutical,,
+672,Helus Pharma,HELP,5.35,Pharmaceuticals v,https://finviz.com/quote?t=HELP&p=d,HELP - Helus Pharma Inc Stock Price and Quote
+673,AXA IM USD Credit PAB UCITS ETF,AIPT,10.33,,,
+674,ASC AG,VSC,0.3,Biotechnology,,
+675,Akero Therapeutics,AKRO,54.7,Biotechnology,,
+676,Avadel Pharmaceuticals PLC,AVDL,21.33,Pharmaceutical,,
+677,Biotage AB,PQX1,12.78,Pharmaceuticals,,
+678,Civitas Resources,CIVI,27.35,Oil & Gas,,
+679,Cutera,CUTRQ,0.01,,,
+680,Dynavax Technologies Corporation,DVAX,15.49,Biotech,,
+681,Merrimack Pharmaceuticals,MACK,15.16,Pharmaceuticals,,
+682,Metsera Inc.,MTSR,70.68,Biotechnology,,
+683,Mural Oncology,MURA,2.04,Healthcare,,
+684,Nexus AG,NXU,71.7,Enterprise Software,,
+685,Performant Healthcare Inc,PHLT,7.76,,,
+686,PharmaSGP Holding SE,PSG,28.8,Pharmaceutical,,
+687,Rapt Therapeutics,RAPT,58.01,Biotechnology,,
+688,Third Harmonic Bio,THRD,5.38,Pharmaceutical,,
+689,Ventyx Biosciences,NEE,13.99,,https://finviz.com/quote?t=NEE&p=d,NEE - NextEra Energy Inc Stock Price and Quote
+690,Zynex,ZYXIQ,0.06,Medication,,
+691,Structure Therapeutics,GPCR,39.24,Pharmaceuticals V,https://finviz.com/quote?t=GPCR&p=d,GPCR - Structure Therapeutics Inc ADR Stock Price and Quote
+692,BeiGene,ONC,314.91,,https://finviz.com/quote?t=ONC&p=d,ONC - BeOne Medicines Ltd ADR Stock Price and Quote
+693,NovaBridge Biosciences,NBP,2.21,,https://finviz.com/quote?t=NBP&p=d,NBP - NovaBridge Biosciences ADR Stock Price and Quote
+694,Bicycle Therapeutics,BCYC,5.09,Biotechnology,https://finviz.com/quote?t=BCYC&p=d,BCYC - Bicycle Therapeutics Plc ADR Stock Price and Quote
+695,Reddy's Laboratories Ltd.,RDY,13.72,Pharmaceuticals,https://finviz.com/quote?t=RDY&p=d,RDY - Dr. Reddy's Laboratories Ltd ADR Stock Price and Quote
+696,Fresenius Medical Care,FMS,21.66,Healthcare,https://finviz.com/quote?t=FMS&p=d,FMS - Fresenius Medical Care AG ADR Stock Price and Quote
+697,Smith & Nephew,SNN,30.06,Medical Equipment,https://finviz.com/quote?t=SNN&p=d,SNN - Smith & Nephew plc ADR Stock Price and Quote
+698,Compass Pathways Pic,CMPS,9.15,Biotechnology,https://finviz.com/quote?t=CMPS&p=d,CMPS - Compass Pathways Plc ADR Stock Price and Quote
+699,BioNTech SE,BNTX,95.4,Biotechnology,https://finviz.com/quote?t=BNTX&p=d,BNTX - BioNTech SE ADR Stock Price and Quote
+700,Sanofi,SNY,43.78,Pharmaceuticals,https://finviz.com/quote?t=SNY&p=d,SNY - Sanofi ADR Stock Price and Quote
+701,Legend Biotech Corp,LEGN,28.55,Biotech V,https://finviz.com/quote?t=LEGN&p=d,LEGN - Legend Biotech Corp ADR Stock Price and Quote
+702,Novartis AG,NVS,145.36,Pharmaceuticals,https://finviz.com/quote?t=NVS&p=d,NVS - Novartis AG ADR Stock Price and Quote
+703,Teva Pharmaceutical Industries,TEVA,36.01,Pharmaceuticals,https://finviz.com/quote?t=TEVA&p=d,TEVA - Teva- Pharmaceutical Industries Ltd ADR Stock Price and Quote
+704,Koninklijke Philips,PHG,27.51,Multinational Conglomerate,https://finviz.com/quote?t=PHG&p=d,PHG - Koninklijke Philips NV ADR Stock Price and Quote
+705,Haleon,HLN,9.42,Healthcare,https://finviz.com/quote?t=HLN&p=d,HLN - Haleon plc ADR Stock Price and Quote
+706,Immunocore Holdings,IMCR,31.36,Biotechnology,https://finviz.com/quote?t=IMCR&p=d,IMCR - Immunocore Holdings plc ADR Stock Price and Quote
+707,Takeda Pharmaceutical,TAK,17.25,Pharmaceuticals,https://finviz.com/quote?t=TAK&p=d,TAK - Takeda Pharmaceutical Co ADR Stock Price and Quote
+708,Genmab AS,GMAB,27.05,Biotechnology,https://finviz.com/quote?t=GMAB&p=d,GMAB - Genmab ADR Stock Price and Quote
+709,Hutchison China,HCM,13.32,Drug Manufacturing,https://finviz.com/quote?t=HCM&p=d,HCM - HUTCHMED (China) Limited ADR Stock Price and Quote
+710,GSK,GSK,50.6,Healthcare,https://finviz.com/quote?t=GSK&p=d,GSK - GSK Plc ADR Stock Price and Quote
+711,Galapagos,GLPG,27.76,Biotechnology,https://finviz.com/quote?t=LKFT&ta=1&p=d&ty=c,LKFT - Lakefront Biotherapeutics NV ADR Stock Price and Quote
+712,Ascendis Pharma AS,ASND,245.73,Pharmaceutics,https://finviz.com/quote?t=ASND&p=d,ASND - Ascendis Pharma A/S Stock Price and Quote
+713,Centessa Pharmaceuticals PLC,CNTA,39.74,Pharmaceuticals,https://finviz.com/quote?t=CNTA&p=d,CNTA - Centessa Pharmaceuticals plc ADR Stock Price and Quote
+714,AstraZeneca PLC,AZN.OLD,92.95,Pharmaceuticals,,
+715,Zai Lab,ZLAB,19.78,Biotechnology v,https://finviz.com/quote?t=ZLAB&p=d,ZLAB - Zai Lab Limited ADR Stock Price and Quote
+716,Novo Nordisk,NVO,45.3,Pharmaceuticals,https://finviz.com/quote?t=NVO&p=d,NVO - Novo Nordisk ADR Stock Price and Quote
+717,Autolus Therapeutics,AUTL,1.61,Biotech v,https://finviz.com/quote?t=AUTL&p=d,AUTL - Autolus Therapeutics plc ADR Stock Price and Quote
